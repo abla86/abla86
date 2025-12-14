@@ -1,6 +1,7 @@
 Anne Beth Andersen – Portfolio
 
-Dette repoet inneholder prosjekter jeg har laget i forbindelse med min læringsreise fra helse-IT til utvikling. Målet er å bygge et solid teknisk fundament innen web, Python, cloud og IoT, samtidig som jeg bruker erfaringen min fra digitale arbeidsprosesser og brukernære systemer.
+diverse prosjekter jeg har laget i forbindelse med min læringsreise fra helse-IT til utvikling. 
+Målet er å bygge et solid teknisk fundament innen cloud, azure osv mens jeg bruker erfaringen min fra digitale arbeidsprosesser og brukernære systemer.
 
 🔧 Teknologi jeg jobber med
 
@@ -13,6 +14,7 @@ Git & GitHub Pages
 Azure Fundamentals
 
 Home Assistant & IoT-integrasjoner (Tuya)
+
 
 
 📁 Prosjekter i dette repoet
