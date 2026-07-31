@@ -1,6 +1,7 @@
 Anne Beth Andersen – Portfolio
 
-Jeg bygger praktiske prosjekter innen fullstack-utvikling, skyteknologi og automasjon. Målet er å kombinere erfaring fra helsesektoren med moderne programvareutvikling og IoT.
+Jeg bygger praktiske prosjekter innen fullstack-utvikling, skyteknologi og automasjon. 
+Målet er å kombinere erfaring fra helsesektoren med moderne programvareutvikling og IoT.
 
 🔧 Teknologi jeg jobber med
 
