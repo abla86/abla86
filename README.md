@@ -1,5 +1,6 @@
 # Anne Beth Andersen
 
+Currently building my portfolio one project at a time.
 Building practical full-stack projects with .NET, React, Python and Home Assistant.
 
 Healthcare professional transitioning into software development, with experience in healthcare technology, automation, IoT and digital workflows.
