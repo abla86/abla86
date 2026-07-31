@@ -26,6 +26,6 @@ Healthcare professional transitioning into software development, with experience
 - Home Assistant & IoT integrations
 - Azure cloud services
 - Clean code and best practices
-Docker (kommer)
+
 
 
