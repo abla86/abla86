@@ -1,7 +1,6 @@
 Anne Beth Andersen – Portfolio
 
-diverse prosjekter jeg har laget i forbindelse med min læringsreise fra helse-IT til utvikling. 
-Målet er å bygge et solid teknisk fundament innen cloud, azure osv mens jeg bruker erfaringen min fra digitale arbeidsprosesser og brukernære systemer.
+Jeg bygger praktiske prosjekter innen fullstack-utvikling, skyteknologi og automasjon. Målet er å kombinere erfaring fra helsesektoren med moderne programvareutvikling og IoT.
 
 🔧 Teknologi jeg jobber med
 
