@@ -1,44 +1,50 @@
 # Anne Beth Andersen
 
-Building a software development portfolio focused on web development, APIs, automation and healthcare technology.
+Software development portfolio focused on full-stack development, APIs, automation, cloud technologies and healthcare technology.
 
-I have a professional background in healthcare and experience with healthcare technology, digital workflows, Home Assistant, IoT and automation.
+I combine a healthcare technology background with hands-on experience in software development, automation, IoT, system configuration and digital workflows.
 
-## Currently Working With
+## Technical Skills
 
-- HTML & CSS
-- JavaScript
-- Python
-- Git & GitHub
-- REST APIs
-- Home Assistant
+* HTML, CSS and JavaScript
+* Python and FastAPI
+* REST APIs
+* SQL and PostgreSQL
+* Git and GitHub
+* Docker
+* Home Assistant
+* MQTT, Zigbee and IoT integrations
+* Raspberry Pi and Linux-based systems
+* Microsoft 365 and digital workflow tools
+* Troubleshooting, system configuration and technical user support
 
-## Currently Learning
+## Currently Expanding
 
-- React
-- C# & .NET
-- Azure
-- Docker
-- CI/CD
+* React
+* C# and ASP.NET Core
+* .NET
+* Microsoft Azure
+* CI/CD and GitHub Actions
+* Containerized application development
 
-## Portfolio Projects
+## Current Development Focus
 
-My portfolio is being built progressively, from frontend fundamentals to APIs, full-stack applications, cloud deployment and IoT integrations.
+* Full-stack web applications
+* REST API development
+* Backend development with Python and .NET
+* Home Assistant and IoT integrations
+* Automation and digital workflows
+* Cloud deployment and DevOps fundamentals
 
-### Current projects
+## Portfolio
 
-- JavaScript Calculator
-- Digital Clock
-- JavaScript Counter
-- FastAPI Learning
+I am building practical projects that demonstrate progression from frontend development to APIs, full-stack applications, cloud deployment, automation and IoT.
 
-## Next
+Current projects include:
 
-- Advanced JavaScript applications
-- REST API integrations
-- React applications
-- ASP.NET Core APIs
-- Full-stack React + .NET
-- Docker & GitHub Actions
-- Azure deployment
-- Home Assistant & IoT development
+* JavaScript Calculator
+* Digital Clock
+* JavaScript Counter
+* FastAPI REST API project
+
+Upcoming projects will expand into React, ASP.NET Core, Docker, CI/CD, Azure and Home Assistant integrations.
