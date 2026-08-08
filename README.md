@@ -1,32 +1,44 @@
 # Anne Beth Andersen
 
-Currently building my portfolio one project at a time.
-Building practical full-stack projects with .NET, React, Python and Home Assistant.
+Building a software development portfolio focused on web development, APIs, automation and healthcare technology.
 
-Healthcare professional transitioning into software development, with experience in healthcare technology, automation, IoT and digital workflows.
+I have a professional background in healthcare and experience with healthcare technology, digital workflows, Home Assistant, IoT and automation.
 
-## Tech Stack
+## Currently Working With
 
-- HTML
-- CSS
+- HTML & CSS
 - JavaScript
-- React
 - Python
-- C#
-- .NET
 - Git & GitHub
 - REST APIs
-- Azure
 - Home Assistant
-- Docker (learning)
 
-## Current Focus
+## Currently Learning
 
-- Building full-stack web applications
-- Developing REST APIs with .NET
-- Home Assistant & IoT integrations
-- Azure cloud services
-- Clean code and best practices
+- React
+- C# & .NET
+- Azure
+- Docker
+- CI/CD
 
+## Portfolio Projects
 
+My portfolio is being built progressively, from frontend fundamentals to APIs, full-stack applications, cloud deployment and IoT integrations.
 
+### Current projects
+
+- JavaScript Calculator
+- Digital Clock
+- JavaScript Counter
+- FastAPI Learning
+
+## Next
+
+- Advanced JavaScript applications
+- REST API integrations
+- React applications
+- ASP.NET Core APIs
+- Full-stack React + .NET
+- Docker & GitHub Actions
+- Azure deployment
+- Home Assistant & IoT development
