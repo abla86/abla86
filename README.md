@@ -1,50 +1,75 @@
-# Anne Beth Andersen
+﻿# Anne Beth Andersen
 
-Software development portfolio focused on full-stack development, APIs, automation, cloud technologies and healthcare technology.
+**Software Development | APIs | Automation | Healthcare Technology**
 
-I combine a healthcare technology background with hands-on experience in software development, automation, IoT, system configuration and digital workflows.
+I build practical software solutions across web development, backend APIs, automation and digital systems.
 
-## Technical Skills
+My background combines healthcare and healthcare technology with hands-on experience in software development, IoT, automation, system configuration and digital workflows.
 
-* HTML, CSS and JavaScript
-* Python and FastAPI
-* REST APIs
-* SQL and PostgreSQL
-* Git and GitHub
-* Docker
-* Home Assistant
-* MQTT, Zigbee and IoT integrations
-* Raspberry Pi and Linux-based systems
-* Microsoft 365 and digital workflow tools
-* Troubleshooting, system configuration and technical user support
+## Selected Work
+
+### Developer Portfolio
+A responsive portfolio bringing together my projects, technical skills and interactive applications.
+
+**Live:** https://abla86.github.io/developer-portfolio/
+
+**Repository:** https://github.com/abla86/developer-portfolio
+
+### FastAPI REST API
+Backend project built with Python and FastAPI, including CRUD operations, REST endpoints and PostgreSQL persistence.
+
+### JavaScript Applications
+Practical browser applications demonstrating DOM manipulation, event handling and application logic.
+
+- Advanced JavaScript Counter
+- Task Manager
+- Calculator
+- Digital Clock
+
+## Technical Stack
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+
+**Backend & Data**
+- Python
+- FastAPI
+- REST APIs
+- SQL
+- PostgreSQL
+
+**Development**
+- Git
+- GitHub
+- GitHub Pages
+- PowerShell
+- Docker
+
+**Automation & IoT**
+- Home Assistant
+- MQTT
+- Zigbee
+- Raspberry Pi
+- System configuration and troubleshooting
 
 ## Currently Expanding
 
-* React
-* C# and ASP.NET Core
-* .NET
-* Microsoft Azure
-* CI/CD and GitHub Actions
-* Containerized application development
+- React
+- C#
+- ASP.NET Core / .NET
+- Microsoft Azure
+- CI/CD
+- GitHub Actions
+- Containerized application development
 
-## Current Development Focus
+## Direction
 
-* Full-stack web applications
-* REST API development
-* Backend development with Python and .NET
-* Home Assistant and IoT integrations
-* Automation and digital workflows
-* Cloud deployment and DevOps fundamentals
+Building toward full-stack and backend software development with a focus on APIs, cloud technologies, automation and practical technical solutions.
+
+My longer-term direction combines software engineering with domain knowledge from healthcare technology and complex digital workflows.
 
 ## Portfolio
 
-I am building practical projects that demonstrate progression from frontend development to APIs, full-stack applications, cloud deployment, automation and IoT.
-
-Current projects include:
-
-* JavaScript Calculator
-* Digital Clock
-* JavaScript Counter
-* FastAPI REST API project
-
-Upcoming projects will expand into React, ASP.NET Core, Docker, CI/CD, Azure and Home Assistant integrations.
+https://abla86.github.io/developer-portfolio/
