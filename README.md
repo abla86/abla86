@@ -1,75 +1,109 @@
 ﻿# Anne Beth Andersen
 
-**Software Development | APIs | Automation | Healthcare Technology**
+**Software Development · APIs · Automation · Data**
 
-I build practical software solutions across web development, backend APIs, automation and digital systems.
+I build practical software across frontend, backend and data — from JavaScript and React applications to APIs, SQL databases and containerized full-stack systems.
 
-My background combines healthcare and healthcare technology with hands-on experience in software development, IoT, automation, system configuration and digital workflows.
+My background includes healthcare technology, automation, digital workflows and system troubleshooting, but my developer profile is deliberately broader than one industry.
 
-## Selected Work
+## Featured Project
 
-### Developer Portfolio
-A responsive portfolio bringing together my projects, technical skills and interactive applications.
+### Workforce & Competence Management System
 
-**Live:** https://abla86.github.io/developer-portfolio/
+Interactive full-stack workforce and competence management application with:
 
-**Repository:** https://github.com/abla86/developer-portfolio
+- React + Vite frontend
+- ASP.NET Core REST API
+- Entity Framework Core
+- SQL Server
+- Docker Compose
+- Employee CRUD
+- Competence levels and validity
+- Shift planning and assignments
+- Staffing requirements
+- Competence requirements
+- Automatic staffing and competence gap analysis
+- GREEN / AMBER / RED operational status
+- 3/3 xUnit backend tests
+- Frontend lint and production build
+- GitHub Actions CI
+- CodeQL
+- Dependabot
 
-### FastAPI REST API
-Backend project built with Python and FastAPI, including CRUD operations, REST endpoints and PostgreSQL persistence.
+Repository:
+https://github.com/abla86/workforce-competence-management
 
-### JavaScript Applications
-Practical browser applications demonstrating DOM manipulation, event handling and application logic.
+## Selected Projects
 
-- Advanced JavaScript Counter
+### Full Stack
+- Workforce & Competence Management
+
+### Backend & Data
+- HealthTech Device API
+- FastAPI Learning
+- Workforce SQL
+- Shift & Competence Planner
+- Healthcare Data Analyzer
+
+### Frontend Applications
+- React Task Dashboard
+- To-Do App
 - Task Manager
+- Dashboard UI
+
+### Development Progression
+- Advanced JavaScript Counter
 - Calculator
 - Digital Clock
+- JavaScript Counter
+- Hello HTML
 
 ## Technical Stack
 
-**Frontend**
-- HTML
-- CSS
+### Frontend
+- HTML5
+- CSS3
 - JavaScript
+- React
+- Vite
 
-**Backend & Data**
+### Backend & Data
 - Python
 - FastAPI
+- C#
+- .NET 9
+- ASP.NET Core
+- Entity Framework Core
 - REST APIs
-- SQL
+- OpenAPI
+- SQL Server
 - PostgreSQL
 
-**Development**
+### Engineering
 - Git
 - GitHub
-- GitHub Pages
-- PowerShell
+- GitHub Actions
 - Docker
+- Docker Compose
+- CodeQL
+- Dependabot
+- xUnit
+- pytest
+- Jest
+- PowerShell
 
-**Automation & IoT**
+### Automation & IoT
 - Home Assistant
 - MQTT
 - Zigbee
 - Raspberry Pi
-- System configuration and troubleshooting
-
-## Currently Expanding
-
-- React
-- C#
-- ASP.NET Core / .NET
-- Microsoft Azure
-- CI/CD
-- GitHub Actions
-- Containerized application development
-
-## Direction
-
-Building toward full-stack and backend software development with a focus on APIs, cloud technologies, automation and practical technical solutions.
-
-My longer-term direction combines software engineering with domain knowledge from healthcare technology and complex digital workflows.
 
 ## Portfolio
 
+The full project progression is presented on one page so visitors can see the complete range without opening every repository.
+
 https://abla86.github.io/developer-portfolio/
+
+## Direction
+
+Building further toward full-stack and backend software development with a focus on APIs, data, automation, cloud technologies and practical technical solutions.
