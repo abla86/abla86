@@ -1,4 +1,4 @@
-﻿# Anne Beth Andersen
+# Anne Beth Andersen
 
 **Software Development · APIs · Automation · Data**
 
@@ -6,7 +6,28 @@ I build practical software across frontend, backend and data — from JavaScript
 
 My background includes healthcare technology, automation, digital workflows and system troubleshooting, but my developer profile is deliberately broader than one industry.
 
-## Featured Project
+## Featured Projects
+
+### Evidence Appraisal Tool
+
+Research-focused full-stack application for transparent and structured AMSTAR 2 appraisal workflows:
+
+- React + Vite frontend
+- ASP.NET Core REST API
+- Structured registration of all 16 AMSTAR 2 items
+- Prespecified critical domains with required rationale
+- Required evidence location and researcher justification
+- Researcher-selected overall confidence
+- No numerical AMSTAR 2 total score
+- Word, PDF, Excel and JSON export
+- Shared report model with SHA-256 verification
+- 22/22 backend tests
+- 14/14 frontend tests
+- ESLint and production build
+- GitHub Actions CI
+
+Repository:
+https://github.com/abla86/evidence-appraisal-tool
 
 ### Workforce & Competence Management System
 
@@ -36,6 +57,7 @@ https://github.com/abla86/workforce-competence-management
 ## Selected Projects
 
 ### Full Stack
+- Evidence Appraisal Tool
 - Workforce & Competence Management
 
 ### Backend & Data
