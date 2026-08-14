@@ -29,6 +29,8 @@ Research-focused full-stack application for transparent and structured AMSTAR 2 
 Repository:
 https://github.com/abla86/evidence-appraisal-tool
 
+Live demo: https://evidence-appraisal-tool.onrender.com
+
 ### Workforce & Competence Management System
 
 Interactive full-stack workforce and competence management application with:
