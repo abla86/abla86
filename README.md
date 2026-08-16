@@ -1,39 +1,47 @@
 # Anne Beth Andersen
 
-**Software Development · APIs · Automation · Data**
+**Healthcare Technology · Software Development · APIs · Automation · Evidence & Data**
 
-I build practical software across frontend, backend and data — from JavaScript and React applications to APIs, SQL databases and containerized full-stack systems.
+I build practical digital solutions at the intersection of healthcare, research and technology. My background combines nursing and municipal healthcare with a Master’s in Knowledge-Based Practice, administration and hands-on software development.
 
-My background includes healthcare technology, automation, digital workflows and system troubleshooting, but my developer profile is deliberately broader than one industry.
+I use technology to turn complex professional workflows into structured, testable and usable systems. My current work spans React, Python, C#/.NET, REST APIs, SQL, Docker, GitHub Actions, AI-assisted development and automation.
+
+## What I build
+
+- Healthcare and research software
+- Evidence appraisal and knowledge-based practice tools
+- Workforce and competence systems
+- REST APIs and full-stack applications
+- Data and SQL solutions
+- Automation and IoT integrations
+- Tested, documented and security-conscious GitHub projects
 
 ## Featured Projects
 
 ### Evidence Appraisal Tool
 
-Research-focused full-stack application for transparent and structured AMSTAR 2 appraisal workflows:
+Research-focused full-stack application for transparent and structured evidence appraisal workflows.
 
 - React + Vite frontend
 - ASP.NET Core REST API
-- Structured registration of all 16 AMSTAR 2 items
-- Prespecified critical domains with required rationale
-- Required evidence location and researcher justification
-- Researcher-selected overall confidence
-- No numerical AMSTAR 2 total score
-- Word, PDF, Excel and JSON export
-- Shared report model with SHA-256 verification
+- AMSTAR 2, CASP, AGREE II and GRADE workflows
+- Structured evidence location and researcher rationale
+- Researcher-confirmed judgements rather than unsupported automated conclusions
+- Word, PDF, Excel and JSON export for AMSTAR 2
+- SHA-256 verification for exported reports
 - 22/22 backend tests
 - 14/14 frontend tests
 - ESLint and production build
 - GitHub Actions CI
+- CodeQL and Dependabot
 
-Repository:
-https://github.com/abla86/evidence-appraisal-tool
+Repository: https://github.com/abla86/evidence-appraisal-tool
 
 Live demo: https://evidence-appraisal-tool.onrender.com
 
 ### Workforce & Competence Management System
 
-Interactive full-stack workforce and competence management application with:
+Interactive full-stack application focused on workforce planning and competence management.
 
 - React + Vite frontend
 - ASP.NET Core REST API
@@ -43,33 +51,32 @@ Interactive full-stack workforce and competence management application with:
 - Employee CRUD
 - Competence levels and validity
 - Shift planning and assignments
-- Staffing requirements
-- Competence requirements
-- Automatic staffing and competence gap analysis
+- Staffing and competence requirements
+- Automatic competence-gap analysis
 - GREEN / AMBER / RED operational status
-- 3/3 xUnit backend tests
-- Frontend lint and production build
+- xUnit tests
 - GitHub Actions CI
 - CodeQL
 - Dependabot
 
-Repository:
-https://github.com/abla86/workforce-competence-management
+Repository: https://github.com/abla86/workforce-competence-management
 
 ## Selected Projects
 
-### Full Stack
+### Healthcare & Data
 - Evidence Appraisal Tool
 - Workforce & Competence Management
-
-### Backend & Data
 - HealthTech Device API
-- FastAPI Learning
-- Workforce SQL
-- Shift & Competence Planner
 - Healthcare Data Analyzer
+- Healthcare Workforce SQL
+- Shift & Competence Planner
 
-### Frontend Applications
+### Backend & APIs
+- FastAPI Learning
+- HealthTech Device API
+- ASP.NET Core / .NET projects
+
+### Frontend
 - React Task Dashboard
 - To-Do App
 - Task Manager
@@ -85,49 +92,24 @@ https://github.com/abla86/workforce-competence-management
 ## Technical Stack
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Vite
+HTML5 · CSS3 · JavaScript · React · Vite
 
 ### Backend & Data
-- Python
-- FastAPI
-- C#
-- .NET 9
-- ASP.NET Core
-- Entity Framework Core
-- REST APIs
-- OpenAPI
-- SQL Server
-- PostgreSQL
+Python · FastAPI · C# · .NET 9 · ASP.NET Core · Entity Framework Core · REST APIs · OpenAPI · SQL Server · PostgreSQL
 
 ### Engineering
-- Git
-- GitHub
-- GitHub Actions
-- Docker
-- Docker Compose
-- CodeQL
-- Dependabot
-- xUnit
-- pytest
-- Jest
-- PowerShell
+Git · GitHub · GitHub Actions · Docker · Docker Compose · CodeQL · Dependabot · xUnit · pytest · Jest · PowerShell
 
 ### Automation & IoT
-- Home Assistant
-- MQTT
-- Zigbee
-- Raspberry Pi
+Home Assistant · MQTT · Zigbee · Raspberry Pi · YAML automation
+
+### AI
+AI-assisted software development · Generative AI tooling · Workflow automation · Evaluation-oriented thinking
 
 ## Portfolio
 
-The full project progression is presented on one page so visitors can see the complete range without opening every repository.
-
-https://abla86.github.io/developer-portfolio/
+Full project portfolio: https://abla86.github.io/developer-portfolio/
 
 ## Direction
 
-Building further toward full-stack and backend software development with a focus on APIs, data, automation, cloud technologies and practical technical solutions.
+Building toward full-stack and backend software development, digital health and health-tech product development, with particular interest in APIs, data, evidence, automation, AI and systems that solve real professional problems.
