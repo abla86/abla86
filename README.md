@@ -41,23 +41,27 @@ Live demo: https://evidence-appraisal-tool.onrender.com
 
 ### Workforce & Competence Management System
 
-Interactive full-stack application focused on workforce planning and competence management.
+Interactive full-stack application for workforce planning, competence management, shift planning and staffing coverage.
 
 - React + Vite frontend
 - ASP.NET Core REST API
-- Entity Framework Core
+- Entity Framework Core 10
 - SQL Server
 - Docker Compose
-- Employee CRUD
-- Competence levels and validity
-- Shift planning and assignments
-- Staffing and competence requirements
-- Automatic competence-gap analysis
-- GREEN / AMBER / RED operational status
-- xUnit tests
-- GitHub Actions CI
-- CodeQL
-- Dependabot
+- Employee and competence management
+- Competence levels, validity and expiry/review indicators
+- Shift planning, assignments and staffing requirements
+- Competence and role requirements
+- Availability, approved absence, overlap and rest-period checks
+- Explainable GREEN / YELLOW / RED coverage status
+- Candidate ranking and qualified replacement suggestions
+- Non-destructive what-if scenario analysis
+- Coverage history/audit events
+- Authenticated data import/export
+- 11 backend unit tests
+- Frontend lint and production build
+- Full-stack Docker smoke testing in GitHub Actions
+- CodeQL and Dependabot
 
 Repository: https://github.com/abla86/workforce-competence-management
 
@@ -95,7 +99,7 @@ Repository: https://github.com/abla86/workforce-competence-management
 HTML5 · CSS3 · JavaScript · React · Vite
 
 ### Backend & Data
-Python · FastAPI · C# · .NET 9 · ASP.NET Core · Entity Framework Core · REST APIs · OpenAPI · SQL Server · PostgreSQL
+Python · FastAPI · C# · .NET 10 · ASP.NET Core · Entity Framework Core · REST APIs · OpenAPI · SQL Server · PostgreSQL
 
 ### Engineering
 Git · GitHub · GitHub Actions · Docker · Docker Compose · CodeQL · Dependabot · xUnit · pytest · Jest · PowerShell
