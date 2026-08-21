@@ -58,7 +58,7 @@ Interactive full-stack application for workforce planning, competence management
 - Non-destructive what-if scenario analysis
 - Coverage history/audit events
 - Authenticated data import/export
-- 11 backend unit tests
+- **18/18 backend tests**
 - Frontend lint and production build
 - Full-stack Docker smoke testing in GitHub Actions
 - CodeQL and Dependabot
