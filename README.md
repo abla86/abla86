@@ -18,26 +18,29 @@ I use technology to turn complex professional workflows into structured, testabl
 
 ## Featured Projects
 
-### Evidence Appraisal Tool
+### Evidence Appraisal Tool — advanced research prototype v1.0.0
 
-Research-focused full-stack application for transparent and structured evidence appraisal workflows.
+A full-featured research-oriented application for structured evidence appraisal, research workflow support and evidence traceability. It is deliberately presented as a **prototype**: the implemented software is substantially more than a UI mock-up, while clinical validation, production security and institutional privacy governance are not claimed as complete.
 
-- React + Vite frontend
-- ASP.NET Core REST API
-- AMSTAR 2, CASP, AGREE II and GRADE workflows
-- Structured evidence location and researcher rationale
-- Researcher-confirmed judgements rather than unsupported automated conclusions
-- Word, PDF, Excel and JSON export for AMSTAR 2
-- SHA-256 verification for exported reports
-- 22/22 backend tests
-- 14/14 frontend tests
-- ESLint and production build
+- React 19 + Vite frontend
+- ASP.NET Core REST API on .NET 9
+- AMSTAR 2, CASP, AGREE II and GRADE workflow support
+- RoB 2 workflow explicitly marked prototype
+- Bibliography import and duplicate-candidate detection
+- Screening, extraction, PRISMA and reviewer-comparison workflows
+- Cohen's kappa calculation
+- Evidence document analysis with candidate/uncertain semantics
+- Researcher verification and hash-linked audit history
+- Project finalization with SHA-256 integrity marker and lock control
+- Defensive API hardening with request-size limits, rate limiting, CORS configuration and security headers
 - GitHub Actions CI
 - CodeQL and Dependabot
 
 Repository: https://github.com/abla86/evidence-appraisal-tool
 
-Live demo: https://evidence-appraisal-tool.onrender.com
+Live prototype: https://evidence-appraisal-tool.onrender.com
+
+**Status:** Full-featured advanced research prototype. The public deployment is for demonstration and non-confidential material only.
 
 ### Workforce & Competence Management System
 
