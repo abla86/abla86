@@ -4,6 +4,15 @@
 
 I build practical digital solutions at the intersection of healthcare, research and technology. My background combines nursing and municipal healthcare, administration, an ongoing Master's degree in Knowledge-Based Practice, and hands-on software development.
 
+## Start here
+
+| What you want to see | Link |
+|---|---|
+| **Full visual portfolio** | https://abla86.github.io/developer-portfolio/ |
+| **Small projects working together** | https://abla86.github.io/developer-portfolio/small-projects-hub.html |
+| **All source repositories** | https://github.com/abla86?tab=repositories |
+| **Contact** | https://abla86.github.io/developer-portfolio/#contact |
+
 I use technology to turn complex professional workflows into structured, testable and usable systems. Current work spans React, Python, C#/.NET, REST APIs, SQL, Docker, GitHub Actions, AI-assisted development and automation.
 
 ## What I build
@@ -92,6 +101,8 @@ Repository: https://github.com/abla86/workforce-competence-management
 - Digital Clock
 - JavaScript Counter
 - Hello HTML
+
+For the smaller applications, use the [Small Projects Demo Hub](https://abla86.github.io/developer-portfolio/small-projects-hub.html) rather than opening the repositories one by one.
 
 ## Technical Stack
 
