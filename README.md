@@ -2,7 +2,7 @@
 
 **Healthcare Technology · Software Development · APIs · Automation · Evidence & Data**
 
-I build practical digital solutions at the intersection of healthcare, research and technology. My background combines nursing and municipal healthcare Master's student in Knowledge-Based Practice, administration and hands-on software development.
+I build practical digital solutions at the intersection of healthcare, research and technology. My background combines nursing and municipal healthcare with an ongoing Master's degree in Knowledge-Based Practice, administration and hands-on software development.
 
 I use technology to turn complex professional workflows into structured, testable and usable systems. My current work spans React, Python, C#/.NET, REST APIs, SQL, Docker, GitHub Actions, AI-assisted development and automation.
 
