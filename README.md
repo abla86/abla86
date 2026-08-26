@@ -2,13 +2,13 @@
 
 **Healthcare Technology · Software Development · APIs · Automation · Evidence & Data**
 
-I build practical digital solutions at the intersection of healthcare, research and technology. My background combines nursing and municipal healthcare with an ongoing Master's degree in Knowledge-Based Practice, administration and hands-on software development.
+I build practical digital solutions at the intersection of healthcare, research and technology. My background combines nursing and municipal healthcare, administration, an ongoing Master's degree in Knowledge-Based Practice, and hands-on software development.
 
-I use technology to turn complex professional workflows into structured, testable and usable systems. My current work spans React, Python, C#/.NET, REST APIs, SQL, Docker, GitHub Actions, AI-assisted development and automation.
+I use technology to turn complex professional workflows into structured, testable and usable systems. Current work spans React, Python, C#/.NET, REST APIs, SQL, Docker, GitHub Actions, AI-assisted development and automation.
 
 ## What I build
 
-- Healthcare and research software
+- Healthcare and research-support software
 - Evidence appraisal and knowledge-based practice tools
 - Workforce and competence systems
 - REST APIs and full-stack applications
@@ -18,9 +18,9 @@ I use technology to turn complex professional workflows into structured, testabl
 
 ## Featured Projects
 
-### Evidence Appraisal Tool — advanced research prototype v1.0.0
+### Evidence Appraisal Tool
 
-A full-featured research-oriented application for structured evidence appraisal, research workflow support and evidence traceability. It is deliberately presented as a **prototype**: the implemented software is substantially more than a UI mock-up, while clinical validation, production security and institutional privacy governance are not claimed as complete.
+A research-support application for structured critical appraisal and evidence workflow. It is deliberately presented as a **prototype**: the software demonstrates implemented workflows, while clinical validation, production security and institutional privacy governance are not claimed as complete.
 
 - React 19 + Vite frontend
 - ASP.NET Core REST API on .NET 9
@@ -32,15 +32,12 @@ A full-featured research-oriented application for structured evidence appraisal,
 - Evidence document analysis with candidate/uncertain semantics
 - Researcher verification and hash-linked audit history
 - Project finalization with SHA-256 integrity marker and lock control
-- Defensive API hardening with request-size limits, rate limiting, CORS configuration and security headers
-- GitHub Actions CI
-- CodeQL and Dependabot
+- Defensive API hardening represented in the repository
+- GitHub Actions CI, CodeQL and Dependabot
 
 Repository: https://github.com/abla86/evidence-appraisal-tool
 
-Live prototype: https://evidence-appraisal-tool.onrender.com
-
-**Status:** Full-featured advanced research prototype. The public deployment is for demonstration and non-confidential material only.
+**Status:** Advanced research-support prototype. The public deployment is for demonstration and non-confidential material only.
 
 ### Workforce & Competence Management System
 
@@ -48,11 +45,11 @@ Interactive full-stack application for workforce planning, competence management
 
 - React + Vite frontend
 - ASP.NET Core REST API
-- Entity Framework Core 10
+- Entity Framework Core
 - SQL Server
 - Docker Compose
 - Employee and competence management
-- Competence levels, validity and expiry/review indicators
+- Competence levels, validity and review indicators
 - Shift planning, assignments and staffing requirements
 - Competence and role requirements
 - Availability, approved absence, overlap and rest-period checks
@@ -61,9 +58,9 @@ Interactive full-stack application for workforce planning, competence management
 - Non-destructive what-if scenario analysis
 - Coverage history/audit events
 - Authenticated data import/export
-- **18/18 backend tests**
+- **18/18 backend tests** documented in the project
 - Frontend lint and production build
-- Full-stack Docker smoke testing in GitHub Actions
+- Full-stack Docker verification represented in GitHub Actions
 - CodeQL and Dependabot
 
 Repository: https://github.com/abla86/workforce-competence-management
@@ -102,7 +99,7 @@ Repository: https://github.com/abla86/workforce-competence-management
 HTML5 · CSS3 · JavaScript · React · Vite
 
 ### Backend & Data
-Python · FastAPI · C# · .NET 10 · ASP.NET Core · Entity Framework Core · REST APIs · OpenAPI · SQL Server · PostgreSQL
+Python · FastAPI · C# · .NET · ASP.NET Core · Entity Framework Core · REST APIs · OpenAPI · SQL Server · PostgreSQL
 
 ### Engineering
 Git · GitHub · GitHub Actions · Docker · Docker Compose · CodeQL · Dependabot · xUnit · pytest · Jest · PowerShell
@@ -119,4 +116,8 @@ Full project portfolio: https://abla86.github.io/developer-portfolio/
 
 ## Direction
 
-Building toward full-stack and backend software development, digital health and health-tech product development, with particular interest in APIs, data, evidence, automation, AI and systems that solve real professional problems.
+Building toward full-stack and backend software development, digital health and HealthTech product development, with particular interest in APIs, data, evidence, automation, AI and systems that solve real professional problems.
+
+## Contact
+
+The public portfolio and GitHub profile are the primary contact and project channels.
