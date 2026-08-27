@@ -17,15 +17,25 @@ I build practical digital solutions at the intersection of healthcare, research 
 
 I am open to **technical collaboration, research-oriented software work, HealthTech development, code review, documentation, testing and constructive feedback**.
 
-If you want to contribute to a project:
+### Collaboration opportunities
 
-- Read the repository's `CONTRIBUTING.md` when available.
+| If you are... | We can work on... |
+|---|---|
+| **Developer** | Open-source features, APIs, architecture, testing, code review and documentation |
+| **Healthcare professional** | Practical digital-health problems, workflows and usability |
+| **Researcher / student** | Evidence-support tools, research workflows, data and reproducibility |
+| **Organization / employer** | Prototypes, automation, integrations and technology concepts |
+| **Contributor** | Bugs, improvements, documentation, tests and new features |
+
+### How to contribute
+
+- Check the repository's `CONTRIBUTING.md` when available.
 - Open an issue for bugs, feature proposals or technical improvements.
 - Use a pull request for concrete code/documentation changes.
 - Keep contributions focused, reproducible and documented.
 - Do not submit confidential, personal or patient-identifiable information.
 
-For collaboration, the public portfolio is the main project overview and GitHub is the primary development channel.
+**Interested in working together?** Start with a project repository or the public portfolio. GitHub is the primary development channel for technical collaboration.
 
 ## What I build
 
