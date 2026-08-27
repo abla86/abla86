@@ -13,7 +13,19 @@ I build practical digital solutions at the intersection of healthcare, research 
 | **All source repositories** | https://github.com/abla86?tab=repositories |
 | **Contact** | https://abla86.github.io/developer-portfolio/#contact |
 
-I use technology to turn complex professional workflows into structured, testable and usable systems. Current work spans React, Python, C#/.NET, REST APIs, SQL, Docker, GitHub Actions, AI-assisted development and automation.
+## Collaborate
+
+I am open to **technical collaboration, research-oriented software work, HealthTech development, code review, documentation, testing and constructive feedback**.
+
+If you want to contribute to a project:
+
+- Read the repository's `CONTRIBUTING.md` when available.
+- Open an issue for bugs, feature proposals or technical improvements.
+- Use a pull request for concrete code/documentation changes.
+- Keep contributions focused, reproducible and documented.
+- Do not submit confidential, personal or patient-identifiable information.
+
+For collaboration, the public portfolio is the main project overview and GitHub is the primary development channel.
 
 ## What I build
 
