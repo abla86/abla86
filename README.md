@@ -174,6 +174,8 @@ Full project portfolio: https://abla86.github.io/developer-portfolio/
 
 Building toward full-stack and backend software development, digital health and HealthTech product development, with particular interest in APIs, data, evidence, automation, AI and systems that solve real professional problems.
 
-## Contact
+## Contact & collaboration
 
-The public portfolio and GitHub profile are the primary contact and project channels.
+For project-specific collaboration, use the relevant public repository's Issues or Pull Requests when enabled. For broader portfolio, professional or collaboration enquiries, use the contact channel provided in the portfolio.
+
+The public portfolio and GitHub profile are the primary project channels.
