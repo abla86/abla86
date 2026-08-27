@@ -17,6 +17,8 @@ I build practical digital solutions at the intersection of healthcare, research 
 
 I am open to **technical collaboration, research-oriented software work, HealthTech development, code review, documentation, testing, knowledge sharing and constructive feedback**.
 
+This describes **possible collaboration opportunities**, not existing partnerships, customers, research collaborations or organizational agreements.
+
 ### Collaboration opportunities
 
 | You are... | Potential collaboration |
