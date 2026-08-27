@@ -15,27 +15,48 @@ I build practical digital solutions at the intersection of healthcare, research 
 
 ## Collaborate
 
-I am open to **technical collaboration, research-oriented software work, HealthTech development, code review, documentation, testing and constructive feedback**.
+I am open to **technical collaboration, research-oriented software work, HealthTech development, code review, documentation, testing, knowledge sharing and constructive feedback**.
 
 ### Collaboration opportunities
 
-| If you are... | We can work on... |
+| You are... | Potential collaboration |
 |---|---|
-| **Developer** | Open-source features, APIs, architecture, testing, code review and documentation |
-| **Healthcare professional** | Practical digital-health problems, workflows and usability |
-| **Researcher / student** | Evidence-support tools, research workflows, data and reproducibility |
-| **Organization / employer** | Prototypes, automation, integrations and technology concepts |
-| **Contributor** | Bugs, improvements, documentation, tests and new features |
+| **Developer / engineer** | Open-source features, APIs, architecture, testing, code review, CI/CD and documentation |
+| **Healthcare professional** | Workflow design, usability, domain feedback and practical digital-health problems |
+| **Researcher / student** | Evidence-support tools, research workflows, reproducibility, data and methodology-supporting software |
+| **Organization / employer** | Prototypes, automation, integrations, internal tools and technology concepts |
+| **Open-source contributor** | Bug fixes, tests, documentation, accessibility, refactoring and new features |
+| **Designer / UX contributor** | Information architecture, usability, interaction design and accessible interfaces |
 
-### How to contribute
+### Ways to collaborate
+
+**1. Contribute code or documentation**  
+Find an issue, propose an improvement, or open a pull request with a focused and reproducible change.
+
+**2. Test and review**  
+Practical testing, usability feedback, technical review and constructive criticism are valuable contributions even when you do not write code.
+
+**3. Bring a real-world problem**  
+Healthcare, research, workforce planning, data, automation and HealthTech problems can be explored as prototypes or open-source solutions where appropriate.
+
+**4. Discuss an idea or partnership**  
+For larger technical, research or organizational collaboration, start through the public portfolio and identify the relevant project. GitHub is the primary development channel for project-based collaboration.
+
+### Contribution standards
 
 - Check the repository's `CONTRIBUTING.md` when available.
-- Open an issue for bugs, feature proposals or technical improvements.
-- Use a pull request for concrete code/documentation changes.
+- Use issues for bugs, feature proposals and technical improvements.
+- Use pull requests for concrete code or documentation changes.
 - Keep contributions focused, reproducible and documented.
+- Include tests when the change is testable.
 - Do not submit confidential, personal or patient-identifiable information.
+- Do not assume that a prototype is clinically validated or production-ready unless the repository explicitly states this.
 
-**Interested in working together?** Start with a project repository or the public portfolio. GitHub is the primary development channel for technical collaboration.
+### What makes a good collaboration
+
+A useful collaboration has a **clear problem, defined scope, documented decisions and an identifiable outcome**. Contributions that improve reliability, accessibility, security, testing, documentation or real-world usefulness are especially relevant.
+
+**Interested in working together?** Start with a project repository or the public portfolio. For project-specific collaboration, use the repository's issues, discussions or pull-request workflow where available.
 
 ## What I build
 
