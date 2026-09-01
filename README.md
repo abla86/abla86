@@ -13,6 +13,22 @@ I build practical software at the intersection of **technology, healthcare, rese
   <a href="https://github.com/abla86?tab=repositories">Repositories</a>
 </p>
 
+
+## PLAYGROUND — don't just read the profile
+
+<p align="center">
+  <img src="./assets/playground.svg" alt="Three mini systems: Agent Defence, Network Puzzle and Evidence Lab" width="100%"/>
+</p>
+
+**Want to play?** The profile is the launchpad; the working simulations live in the portfolio so they can use real HTML, JavaScript and interaction instead of pretending a GitHub README can execute application code.
+
+- **[Agent Defence — play the simulation](https://abla86.github.io/developer-portfolio/#interactive-engineering-lab)** — start monitoring, inject a simulated threat and watch containment.
+- **[Network State — explore the system](https://abla86.github.io/developer-portfolio/#interactive-engineering-lab)** — inspect the live node/state visualization.
+- **[Evidence Lab — open the application](https://abla86.github.io/developer-portfolio/)** — explore the research-oriented software work.
+
+> **GitHub limitation:** README content cannot safely run arbitrary JavaScript. The profile therefore shows the games visually and launches the real interactive versions on the GitHub Pages application.
+
+
 ## The system behind the projects
 
 The projects are not intended as a collection of unrelated demos. The common thread is building **inspectable systems** where domain knowledge, software engineering, data and evidence can connect without hiding the boundaries between them.
