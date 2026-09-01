@@ -1,87 +1,125 @@
 # Anne Beth Andersen
 
-**Developer · Cloud & automation · Data · Evidence-oriented software**
+**Developer · Cloud · Automation · Data · Evidence-oriented software**
 
-I build practical software at the intersection of **technology, healthcare, research and automation** — with an emphasis on systems that are understandable, testable and inspectable.
-
-<p align="center">
-  <img src="./assets/yggdrasil.svg" alt="Yggdrasil — visual map of technology, healthcare, evidence, data, cloud and security" width="100%"/>
-</p>
+I build inspectable systems where **software engineering, healthcare, research, data and automation** meet.
 
 <p align="center">
-  <a href="https://abla86.github.io/developer-portfolio/">Portfolio</a> ·
-  <a href="https://github.com/abla86?tab=repositories">Repositories</a>
+  <img src="./assets/yggdrasil.svg" alt="Yggdrasil engineering system" width="100%"/>
 </p>
 
+## 🎮 PLAYGROUND
 
-## PLAYGROUND — don't just read the profile
+Not everything here needs to be a serious dashboard. Some things should be fun.
 
-<p align="center">
-  <img src="./assets/playground.svg" alt="Three mini systems: Agent Defence, Network Puzzle and Evidence Lab" width="100%"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Want to play?** The profile is the launchpad; the working simulations live in the portfolio so they can use real HTML, JavaScript and interaction instead of pretending a GitHub README can execute application code.
+### 🛡️ Agent Defence
+**DETECT → CONTAIN**
 
-- **[Agent Defence — play the simulation](https://abla86.github.io/developer-portfolio/#interactive-engineering-lab)** — start monitoring, inject a simulated threat and watch containment.
-- **[Network State — explore the system](https://abla86.github.io/developer-portfolio/#interactive-engineering-lab)** — inspect the live node/state visualization.
-- **[Evidence Lab — open the application](https://abla86.github.io/developer-portfolio/)** — explore the research-oriented software work.
+A browser-based simulation of event detection and containment.
 
-> **GitHub limitation:** README content cannot safely run arbitrary JavaScript. The profile therefore shows the games visually and launches the real interactive versions on the GitHub Pages application.
+**[▶ PLAY](https://abla86.github.io/developer-portfolio/#interactive-engineering-lab)**
 
+</td>
+<td width="50%" valign="top">
 
-## The system behind the projects
+### 🕸️ Network State
+**TRACE → REASON**
 
-The projects are not intended as a collection of unrelated demos. The common thread is building **inspectable systems** where domain knowledge, software engineering, data and evidence can connect without hiding the boundaries between them.
+Watch nodes, connections and state changes move through a simulated system.
 
-| Domain | What I work with |
+**[▶ PLAY](https://abla86.github.io/developer-portfolio/#interactive-engineering-lab)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 Evidence Lab
+**APPRAISE → DECIDE**
+
+Explore structured evidence-appraisal software built around transparent reasoning.
+
+**[▶ OPEN](https://abla86.github.io/developer-portfolio/)**
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Engineering Lab
+**BUILD → BREAK → FIX**
+
+The portfolio contains smaller experiments too — useful for showing how I learn, test ideas and turn them into working software.
+
+**[▶ ENTER LAB](https://abla86.github.io/developer-portfolio/)**
+
+</td>
+</tr>
+</table>
+
+## 🌳 HOW THE PROJECTS CONNECT
+
+Yggdrasil is the map. The repositories are the branches.
+
+| Branch | Focus |
 |---|---|
-| **Software** | React, TypeScript/JavaScript, Python, C#/.NET, APIs |
-| **Cloud & platform** | Azure, Docker, Kubernetes, IaC, CI/CD |
-| **Data & automation** | SQL, analysis workflows, automation and tooling |
-| **Evidence & research** | appraisal, traceability, structured research workflows |
-| **Security-minded engineering** | DevSecOps, dependency controls, resilience and controlled demonstrations |
-| **Healthcare** | software and data problems grounded in a real clinical domain |
+| **Software** | React · TypeScript/JavaScript · Python · C#/.NET · APIs |
+| **Cloud** | Azure · Docker · Kubernetes · IaC · CI/CD |
+| **Data** | SQL · analysis · automation · tooling |
+| **Evidence** | appraisal · traceability · structured research workflows |
+| **Healthcare** | clinical domain · health technology · data |
+| **Security** | DevSecOps · dependency controls · resilience · controlled demonstrations |
 
-## Selected public work
+## 🚀 SELECTED PROJECTS
+
+These are the projects I want a technical visitor or potential employer to see first.
 
 ### Evidence Appraisal Tool
-Research-support software for structured evidence appraisal and research workflows, with explicit separation between **software verification** and **methodological validity**.
+Research-support software for structured evidence appraisal and research workflows.
 
-[View repository →](https://github.com/abla86/evidence-appraisal-tool)
+**[Repository →](https://github.com/abla86/evidence-appraisal-tool)**
 
 ### Azure Kubernetes Showcase
-A cloud-engineering project demonstrating **.NET, React/TypeScript, Docker, Kubernetes, Azure, infrastructure as code, DevSecOps and observability**.
+Full-stack/cloud engineering across **.NET, React/TypeScript, Docker, Kubernetes, Azure, IaC, DevSecOps and observability**.
 
-[View repository →](https://github.com/abla86/azure-kubernetes-showcase)
+**[Repository →](https://github.com/abla86/azure-kubernetes-showcase)**
 
-### Healthcare Workforce SQL
-A data-focused project using SQL to explore healthcare workforce data.
+### CodeSentinel
+Security-oriented engineering project focused on code/repository safeguards and automated controls.
 
-[View repository →](https://github.com/abla86/healthcare-workforce-sql)
+**[Repository →](https://github.com/abla86/CodeSentinel)**
 
-### Healthcare Data Analyzer
-A focused healthcare data-analysis project.
+### RAVENTA
+An independent technical project exploring a different system architecture and interaction model.
 
-[View repository →](https://github.com/abla86/healthcare-data-analyzer)
+**[Repository →](https://github.com/abla86/RAVENTA)**
 
-## Engineering standard
+## 🧰 THE SMALL PROJECTS ARE STILL THERE
+
+Calculator, digital clock, counters, Todo, task manager and other small projects are deliberately **not the headline of this profile**.
+
+They remain useful as evidence of progression and can be explored through the portfolio/repositories.
+
+**[Browse all repositories →](https://github.com/abla86?tab=repositories)**
+
+## 🔬 ENGINEERING STANDARD
 
 **Build → test → document → validate.**
 
-- Documentation describes implemented behaviour rather than intended behaviour.
-- Automated tests are used where they can establish software behaviour.
-- Security and dependency controls are applied where appropriate.
-- Architecture decisions, operational trade-offs, test boundaries and known limitations are documented.
-- Prototype, demonstration, verified and production-ready status are kept distinct.
-- Methodology-driven projects identify the relevant instrument/framework and version.
-- For research-support software, **software correctness is not presented as proof of scientific, clinical or methodological validity**.
+- Show implementation rather than claims.
+- Keep prototype, demonstration, verified and production-ready status distinct.
+- Test software behaviour where tests can establish it.
+- Document architecture, trade-offs, boundaries and limitations.
+- Apply security and dependency controls proportionately.
+- For research-support software, distinguish **software correctness** from **scientific/methodological validity**.
 
-## Current direction
+## CURRENT DIRECTION
 
-Building a portfolio of **full-stack, cloud, data and evidence-oriented software** that can be inspected rather than merely demonstrated through screenshots.
+Building a portfolio of **full-stack, cloud, data and evidence-oriented software** that can be inspected, tested and extended.
 
-More work is available across my repositories; repository status should be read from each project's current documentation and implementation.
-
----
-
-**Build systems that can be examined. Not just claims that can be displayed.**
+<p align="center">
+  <b>Don't just read the profile. Explore it.</b><br>
+  <a href="https://abla86.github.io/developer-portfolio/">ENTER THE PORTFOLIO →</a>
+</p>
