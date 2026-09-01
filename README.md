@@ -10,54 +10,19 @@ I build inspectable systems where **software engineering, healthcare, research, 
 
 ## 🎮 PLAYGROUND
 
-Not everything here needs to be a serious dashboard. Some things should be fun.
+<p align="center">
+  <a href="https://abla86.github.io/developer-portfolio/#interactive-engineering-lab"><img src="./assets/playground.svg" alt="Interactive engineering playground" width="100%"/></a>
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| 🕸️ Network State | 🛡️ Agent Defence | 🧪 Evidence Lab |
+|---|---|---|
+| **[PLAY ↗](https://abla86.github.io/developer-portfolio/#interactive-engineering-lab)** | **[PLAY ↗](https://abla86.github.io/developer-portfolio/#interactive-engineering-lab)** | **[OPEN ↗](https://abla86.github.io/developer-portfolio/)** |
 
-### 🛡️ Agent Defence
-**DETECT → CONTAIN**
+### ⚡ Small things. Different languages. Real code.
 
-A browser-based simulation of event detection and containment.
+**JavaScript** · **TypeScript** · **Python** · **C#/.NET** · **SQL** · **HTML/CSS**
 
-**[▶ PLAY](https://abla86.github.io/developer-portfolio/#interactive-engineering-lab)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🕸️ Network State
-**TRACE → REASON**
-
-Watch nodes, connections and state changes move through a simulated system.
-
-**[▶ PLAY](https://abla86.github.io/developer-portfolio/#interactive-engineering-lab)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧪 Evidence Lab
-**APPRAISE → DECIDE**
-
-Explore structured evidence-appraisal software built around transparent reasoning.
-
-**[▶ OPEN](https://abla86.github.io/developer-portfolio/)**
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Engineering Lab
-**BUILD → BREAK → FIX**
-
-The portfolio contains smaller experiments too — useful for showing how I learn, test ideas and turn them into working software.
-
-**[▶ ENTER LAB](https://abla86.github.io/developer-portfolio/)**
-
-</td>
-</tr>
-</table>
+[Clock](https://abla86.github.io/developer-portfolio/desktop-clock.html) · [Portfolio Lab](https://abla86.github.io/developer-portfolio/) · [All repositories](https://github.com/abla86?tab=repositories)
 
 ## 🌳 HOW THE PROJECTS CONNECT
 
