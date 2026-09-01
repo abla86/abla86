@@ -18,7 +18,11 @@
 <g font-family="Arial,sans-serif">
   <text x="70" y="76" fill="#75e2b5" font-size="15" font-weight="700" letter-spacing="4">AB / ENGINEERING MAP</text>
   <text x="70" y="122" fill="#edf7ff" font-size="34" font-weight="700">Anne Beth Andersen</text>
-  <text x="70" y="151" fill="#91a8c1" font-size="15">software · cloud · evidence · healthcare</text>
+  <text x="70" y="151" fill="#91a8c1" font-size="15">software · cloud · evidence · healthcare · security · data</text>
+  <g transform="translate(1260 82)">
+    <circle cx="0" cy="0" r="5" fill="#75e2b5"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="16" y="4" fill="#75e2b5" font-size="10" font-weight="700" letter-spacing="3">SYSTEM SIGNAL / LIVE</text>
+  </g>
   <text x="70" y="206" fill="#d9e7f5" font-size="13">I build systems that can be inspected.</text>
   <text x="70" y="230" fill="#8299b2" font-size="12">code → test → document → validate</text>
 </g>
@@ -100,6 +104,8 @@
   <text x="1260" y="270" fill="#8ea5bd" font-size="12">repositories and the portfolio.</text>
   <text x="1260" y="325" fill="#75e2b5" font-size="11" font-weight="700">CLICK BELOW</text>
   <text x="1260" y="351" fill="#dceaf7" font-size="14">EXPLORE THE SYSTEM →</text>
+  <path d="M1260 368 H1470" stroke="#75e2b5" stroke-width="2" opacity=".35"/>
+  <circle cx="1260" cy="368" r="3" fill="#75e2b5"><animate attributeName="cx" values="1260;1470;1260" dur="3.8s" repeatCount="indefinite"/></circle>
 </g>
 
 <!-- tiny status -->
