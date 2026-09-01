@@ -11,6 +11,8 @@
 <p align="center">
   <a href="https://abla86.github.io/developer-portfolio/"><b>▶ EXPLORE</b></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://abla86.github.io/developer-portfolio/game-lab.html"><b>◉ GAME LAB</b></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/abla86?tab=repositories"><b>⌘ CODE</b></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/abla86/agenttrace"><b>◎ AGENTTRACE</b></a>
