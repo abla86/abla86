@@ -4,67 +4,75 @@
 
 <p align="center">
   <a href="https://abla86.github.io/developer-portfolio/">
-    <img src="./assets/profile-tree.svg" alt="Living engineering map — software, cloud, evidence and healthcare" width="100%"/>
+    <img src="./assets/profile-tree.svg" alt="Animated engineering system map — software, cloud, evidence, healthcare, security and data" width="100%"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://abla86.github.io/developer-portfolio/"><b>EXPLORE THE SYSTEM →</b></a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/abla86?tab=repositories"><b>CODE →</b></a>
+  <a href="https://github.com/abla86?tab=repositories"><b>REPOSITORIES →</b></a>
   &nbsp; · &nbsp;
   <a href="mailto:annebeth.andersen@gmail.com"><b>CONTACT →</b></a>
 </p>
 
 ---
 
-## / SIGNAL
+## / SYSTEM MAP
 
-I build **inspectable systems** where software, cloud, research, healthcare, data and security meet.
+This profile is the **map**, not the résumé.
 
-This profile is deliberately **not a résumé** and not a second portfolio.
+The detailed work lives in the portfolio. The repositories are the implementation evidence.
 
 <details>
-<summary><b>Open the map</b></summary>
+<summary><b>OPEN CONTROL PANEL</b></summary>
 
-**CORE** — software engineering, APIs, testing and architecture.
-
-**CLOUD** — Azure, Kubernetes, containers, CI/CD and platform engineering.
-
-**EVIDENCE** — research-support software, traceability and structured appraisal workflows.
-
-**HEALTHCARE** — clinical domain knowledge and health-technology workflows.
-
-**SECURITY** — security-aware engineering, controls and DevSecOps.
-
-**DATA** — validation, structured workflows and automation.
+| Layer | What it represents | Where to inspect |
+|---|---|---|
+| CORE | software, APIs, architecture, testing | [repositories](https://github.com/abla86?tab=repositories) |
+| CLOUD | Azure, Kubernetes, containers, CI/CD | [portfolio](https://abla86.github.io/developer-portfolio/) |
+| EVIDENCE | research-support and traceability tooling | [portfolio](https://abla86.github.io/developer-portfolio/) |
+| HEALTHCARE | clinical domain + health technology | [portfolio](https://abla86.github.io/developer-portfolio/) |
+| SECURITY | policy, provenance, audit, DevSecOps | [AgentTrace](https://github.com/abla86/agenttrace) |
+| DATA | validation, structured workflows, automation | [portfolio](https://abla86.github.io/developer-portfolio/) |
 
 </details>
 
 <details>
-<summary><b>How I judge a project</b></summary>
+<summary><b>OPEN ENGINEERING RULES</b></summary>
 
-`build → test → document → validate`
+**build → test → document → validate**
 
-Public claims should be backed by inspectable implementation, meaningful tests, CI, documentation and clear architecture boundaries.
+I do not use "production-ready", "enterprise" or similar claims merely because a project builds or looks complete.
 
-A project is not called production-ready merely because it builds.
+The implementation, tests, CI, security checks, documentation and architectural boundaries have to support the claim.
 
 </details>
 
-## / NAVIGATION
+## / LIVE SIGNAL
 
-**[Portfolio](https://abla86.github.io/developer-portfolio/)**  
-The detailed system: projects, architecture, demonstrations, implementation evidence and technical history.
+### AgentTrace
 
-**[Repositories](https://github.com/abla86?tab=repositories)**  
-The implementation layer: public source code and verification evidence.
+A public technology core for **policy · provenance · audit · evaluation**.
 
-**[AgentTrace](https://github.com/abla86/agenttrace)**  
-A public technology core for policy, provenance, audit and evaluation.
+The core is intentionally consumer-neutral. Azure and Kubernetes integrations belong outside the core and must depend on it rather than the other way around.
+
+→ [AgentTrace repository](https://github.com/abla86/agenttrace)  
+→ [Current development / PR #4](https://github.com/abla86/agenttrace/pull/4)
+
+## / CHOOSE A PATH
+
+**[EXPLORE THE PORTFOLIO →](https://abla86.github.io/developer-portfolio/)**  
+Detailed projects, architecture, demonstrations and implementation evidence.
+
+**[INSPECT THE CODE →](https://github.com/abla86?tab=repositories)**  
+Public source, tests, CI and technical history.
+
+**[FOLLOW THE SYSTEM →](https://github.com/abla86)**  
+The profile stays visual and compact; the deeper material belongs in the portfolio.
 
 ---
 
 <p align="center">
-  <sub>The tree is a living map: roots = foundations, branches = capabilities, moving signal = work becoming proof.</sub>
+  <sub>Roots = foundations · branches = capabilities · moving signal = work becoming proof.</sub>
 </p>
