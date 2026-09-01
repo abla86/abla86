@@ -2,11 +2,22 @@
 
 **Software Engineering · Cloud · HealthTech · Evidence · Security · Data**
 
-<p align="center">
+<table>
+<tr>
+<td width="28%" align="center" valign="middle">
+  <img src="https://avatars.githubusercontent.com/u/195699472?v=4" alt="Anne Beth Andersen" width="220"/>
+  <br/><br/>
+  <b>SOFTWARE · CLOUD · EVIDENCE</b>
+  <br/>
+  HealthTech · Security · Data
+</td>
+<td width="72%" align="center" valign="middle">
   <a href="https://abla86.github.io/developer-portfolio/">
     <img src="./assets/profile-tree.svg" alt="Anne Beth Andersen — engineering map" width="100%"/>
   </a>
-</p>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://abla86.github.io/developer-portfolio/"><b>▶ EXPLORE PORTFOLIO</b></a>
