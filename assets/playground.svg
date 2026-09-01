@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111d"/><stop offset="1" stop-color="#101d30"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="420" rx="26" fill="url(#b)"/>
+<text x="60" y="62" fill="#70e0b1" font-family="Arial" font-size="17" font-weight="700" letter-spacing="3">PLAYGROUND // MINI SYSTEMS</text>
+<text x="60" y="90" fill="#9bb2cc" font-family="Arial" font-size="13">Choose a system. Break it. Reset it. Learn what happens.</text>
+<g font-family="Arial">
+<rect x="55" y="125" width="340" height="220" rx="18" fill="#091522" stroke="#70e0b1"/>
+<text x="80" y="165" fill="#70e0b1" font-size="12" font-weight="700">01 · AGENT DEFENCE</text>
+<circle cx="130" cy="225" r="8" fill="#70e0b1" filter="url(#g)"/><circle cx="190" cy="205" r="8" fill="#7da7ff"/><circle cx="255" cy="245" r="8" fill="#70e0b1"/><circle cx="315" cy="215" r="8" fill="#ffbd69"/>
+<path d="M130 225L190 205L255 245L315 215" stroke="#7da7ff" opacity=".45"/>
+<text x="80" y="295" fill="#dce8f4" font-size="14" font-weight="700">Detect → contain</text><text x="80" y="320" fill="#9bb2cc" font-size="11">Event-driven browser simulation</text>
+<rect x="425" y="125" width="340" height="220" rx="18" fill="#091522" stroke="#7da7ff"/>
+<text x="450" y="165" fill="#7da7ff" font-size="12" font-weight="700">02 · NETWORK PUZZLE</text>
+<path d="M485 235L555 190L625 235L695 185" fill="none" stroke="#7da7ff" stroke-width="4"/><circle cx="485" cy="235" r="9" fill="#70e0b1"/><circle cx="555" cy="190" r="9" fill="#70e0b1"/><circle cx="625" cy="235" r="9" fill="#ffbd69"/><circle cx="695" cy="185" r="9" fill="#7da7ff"/>
+<text x="450" y="295" fill="#dce8f4" font-size="14" font-weight="700">Find the failure path</text><text x="450" y="320" fill="#9bb2cc" font-size="11">Reason about dependencies and state</text>
+<rect x="795" y="125" width="350" height="220" rx="18" fill="#091522" stroke="#c59cff"/>
+<text x="820" y="165" fill="#c59cff" font-size="12" font-weight="700">03 · EVIDENCE LAB</text>
+<path d="M835 245h70M835 225h110M835 205h90" stroke="#c59cff" stroke-width="6" stroke-linecap="round" opacity=".8"/>
+<path d="M1000 225l18 18 42-48" fill="none" stroke="#70e0b1" stroke-width="7" stroke-linecap="round"/>
+<text x="820" y="295" fill="#dce8f4" font-size="14" font-weight="700">Appraise the evidence</text><text x="820" y="320" fill="#9bb2cc" font-size="11">Structured reasoning · transparent decisions</text>
+</g>
+<text x="600" y="390" text-anchor="middle" fill="#6f8298" font-family="Arial" font-size="11">Interactive demos run in the portfolio · source code remains inspectable on GitHub</text>
+</svg>
