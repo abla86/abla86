@@ -17,13 +17,15 @@
 <td><a href="https://github.com/abla86/agenttrace"><img src="./assets/agent.svg" alt="AgentTrace"/></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/abla86/evidence-appraisal-tool"><img src="./assets/evidence.svg" alt="Evidence"/></a></td>
+<td><a href="https://abla86.github.io/developer-portfolio/evidence-lab.html"><img src="./assets/evidence.svg" alt="Evidence Lab — public demo"/></a></td>
 <td><a href="https://github.com/abla86/azure-kubernetes-showcase"><img src="./assets/cloud.svg" alt="Cloud and HealthTech"/></a></td>
 </tr>
 </table>
 
 <p align="center">
   <a href="https://github.com/abla86/game-lab"><b>🎮 PLAY</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://abla86.github.io/developer-portfolio/evidence-lab.html"><b>🧬 TRY EVIDENCE LAB</b></a>
   &nbsp;·&nbsp;
   <a href="https://abla86.github.io/developer-portfolio/"><b>⚡ EXPLORE</b></a>
   &nbsp;·&nbsp;
