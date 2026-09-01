@@ -4,64 +4,68 @@
 
 I build practical software at the intersection of **technology, healthcare, research and automation** — with an emphasis on systems that are understandable, testable and inspectable.
 
-[Portfolio](https://abla86.github.io/developer-portfolio/) · [Repositories](https://github.com/abla86?tab=repositories)
+<p align="center">
+  <img src="./assets/yggdrasil.svg" alt="Yggdrasil — visual map of technology, healthcare, evidence, data, cloud and security" width="100%"/>
+</p>
 
----
+<p align="center">
+  <a href="https://abla86.github.io/developer-portfolio/">Portfolio</a> ·
+  <a href="https://github.com/abla86?tab=repositories">Repositories</a>
+</p>
 
-## What I build
+## The system behind the projects
 
-| Area | Focus |
+The projects are not intended as a collection of unrelated demos. The common thread is building **inspectable systems** where domain knowledge, software engineering, data and evidence can connect without hiding the boundaries between them.
+
+| Domain | What I work with |
 |---|---|
-| **Application development** | React, TypeScript/JavaScript, Python, C#/.NET, APIs |
-| **Cloud & platform** | Azure, Docker, Kubernetes, infrastructure as code, CI/CD |
-| **Data & automation** | SQL, data workflows, analysis tooling, automation |
-| **Evidence & research** | Evidence appraisal, traceability, structured research workflows |
-| **Security-minded engineering** | DevSecOps, dependency/security controls, resilience and controlled demonstrations |
+| **Software** | React, TypeScript/JavaScript, Python, C#/.NET, APIs |
+| **Cloud & platform** | Azure, Docker, Kubernetes, IaC, CI/CD |
+| **Data & automation** | SQL, analysis workflows, automation and tooling |
+| **Evidence & research** | appraisal, traceability, structured research workflows |
+| **Security-minded engineering** | DevSecOps, dependency controls, resilience and controlled demonstrations |
+| **Healthcare** | software and data problems grounded in a real clinical domain |
 
 ## Selected public work
 
 ### Evidence Appraisal Tool
 Research-support software for structured evidence appraisal and research workflows, with explicit separation between **software verification** and **methodological validity**.
 
-**Repository:** [evidence-appraisal-tool](https://github.com/abla86/evidence-appraisal-tool)
+[View repository →](https://github.com/abla86/evidence-appraisal-tool)
 
 ### Azure Kubernetes Showcase
 A cloud-engineering project demonstrating **.NET, React/TypeScript, Docker, Kubernetes, Azure, infrastructure as code, DevSecOps and observability**.
 
-**Repository:** [azure-kubernetes-showcase](https://github.com/abla86/azure-kubernetes-showcase)
+[View repository →](https://github.com/abla86/azure-kubernetes-showcase)
 
 ### Healthcare Workforce SQL
-A data-focused project using SQL to explore and work with healthcare workforce data.
+A data-focused project using SQL to explore healthcare workforce data.
 
-**Repository:** [healthcare-workforce-sql](https://github.com/abla86/healthcare-workforce-sql)
+[View repository →](https://github.com/abla86/healthcare-workforce-sql)
 
 ### Healthcare Data Analyzer
-A focused data-analysis project in the healthcare domain.
+A focused healthcare data-analysis project.
 
-**Repository:** [healthcare-data-analyzer](https://github.com/abla86/healthcare-data-analyzer)
+[View repository →](https://github.com/abla86/healthcare-data-analyzer)
 
----
+## Engineering standard
 
-## Engineering principles
+**Build → test → document → validate.**
 
-- **Show implementation, not just claims.**
-- Keep **prototype, demonstration, verified and production-ready** clearly separated.
-- Use automated tests where they can establish software behaviour.
-- Document architecture, trade-offs, boundaries and known limitations.
-- Keep security and dependency controls proportionate to the project.
-- For research-support software, distinguish **software correctness from scientific or methodological validity**.
-- Prefer small, composable systems that can evolve without unnecessary rewrites.
+- Documentation describes implemented behaviour rather than intended behaviour.
+- Automated tests are used where they can establish software behaviour.
+- Security and dependency controls are applied where appropriate.
+- Architecture decisions, operational trade-offs, test boundaries and known limitations are documented.
+- Prototype, demonstration, verified and production-ready status are kept distinct.
+- Methodology-driven projects identify the relevant instrument/framework and version.
+- For research-support software, **software correctness is not presented as proof of scientific, clinical or methodological validity**.
 
 ## Current direction
 
-Building a portfolio of **inspectable, evidence-oriented software projects** that demonstrate full-stack development, cloud engineering, data work, automation and responsible technical reasoning.
+Building a portfolio of **full-stack, cloud, data and evidence-oriented software** that can be inspected rather than merely demonstrated through screenshots.
 
-> **Build → test → document → validate.**
+More work is available across my repositories; repository status should be read from each project's current documentation and implementation.
 
 ---
 
-### Find more
-
-**Portfolio:** https://abla86.github.io/developer-portfolio/
-
-**GitHub:** https://github.com/abla86
+**Build systems that can be examined. Not just claims that can be displayed.**
