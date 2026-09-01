@@ -4,75 +4,55 @@
 
 <p align="center">
   <a href="https://abla86.github.io/developer-portfolio/">
-    <img src="./assets/profile-tree.svg" alt="Animated engineering system map — software, cloud, evidence, healthcare, security and data" width="100%"/>
+    <img src="./assets/profile-tree.svg" alt="Interactive system map: software, cloud, evidence, healthcare, security and data" width="100%"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://abla86.github.io/developer-portfolio/"><b>EXPLORE THE SYSTEM →</b></a>
+  <a href="https://abla86.github.io/developer-portfolio/"><b>EXPLORE PORTFOLIO →</b></a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/abla86?tab=repositories"><b>REPOSITORIES →</b></a>
+  <a href="https://github.com/abla86?tab=repositories"><b>VIEW CODE →</b></a>
   &nbsp; · &nbsp;
   <a href="mailto:annebeth.andersen@gmail.com"><b>CONTACT →</b></a>
 </p>
 
 ---
 
-## / SYSTEM MAP
+## What you can inspect
 
-This profile is the **map**, not the résumé.
-
-The detailed work lives in the portfolio. The repositories are the implementation evidence.
-
-<details>
-<summary><b>OPEN CONTROL PANEL</b></summary>
-
-| Layer | What it represents | Where to inspect |
-|---|---|---|
-| CORE | software, APIs, architecture, testing | [repositories](https://github.com/abla86?tab=repositories) |
-| CLOUD | Azure, Kubernetes, containers, CI/CD | [portfolio](https://abla86.github.io/developer-portfolio/) |
-| EVIDENCE | research-support and traceability tooling | [portfolio](https://abla86.github.io/developer-portfolio/) |
-| HEALTHCARE | clinical domain + health technology | [portfolio](https://abla86.github.io/developer-portfolio/) |
-| SECURITY | policy, provenance, audit, DevSecOps | [AgentTrace](https://github.com/abla86/agenttrace) |
-| DATA | validation, structured workflows, automation | [portfolio](https://abla86.github.io/developer-portfolio/) |
-
-</details>
-
-<details>
-<summary><b>OPEN ENGINEERING RULES</b></summary>
-
-**build → test → document → validate**
-
-I do not use "production-ready", "enterprise" or similar claims merely because a project builds or looks complete.
-
-The implementation, tests, CI, security checks, documentation and architectural boundaries have to support the claim.
-
-</details>
-
-## / LIVE SIGNAL
-
-### AgentTrace
-
-A public technology core for **policy · provenance · audit · evaluation**.
-
-The core is intentionally consumer-neutral. Azure and Kubernetes integrations belong outside the core and must depend on it rather than the other way around.
-
-→ [AgentTrace repository](https://github.com/abla86/agenttrace)  
-→ [Current development / PR #4](https://github.com/abla86/agenttrace/pull/4)
-
-## / CHOOSE A PATH
-
-**[EXPLORE THE PORTFOLIO →](https://abla86.github.io/developer-portfolio/)**  
-Detailed projects, architecture, demonstrations and implementation evidence.
-
-**[INSPECT THE CODE →](https://github.com/abla86?tab=repositories)**  
-Public source, tests, CI and technical history.
-
-**[FOLLOW THE SYSTEM →](https://github.com/abla86)**  
-The profile stays visual and compact; the deeper material belongs in the portfolio.
+| Click | See |
+|---|---|
+| **Software** | Apps · APIs · architecture · testing |
+| **Cloud** | Azure · Kubernetes · Docker · CI/CD |
+| **Evidence** | appraisal · research synthesis · traceability |
+| **Healthcare** | clinical workflows · health technology |
+| **Security** | audit · provenance · DevSecOps |
+| **Data** | validation · analytics · automation |
 
 ---
 
+## Featured systems
+
+**[Evidence Appraisal Tool →](https://github.com/abla86/complete-evidence-appraisal-tool)**  
+Interactive research appraisal and synthesis tooling.
+
+**[AgentTrace →](https://github.com/abla86/agenttrace)**  
+Policy · provenance · audit · evaluation.
+
+**[Portfolio →](https://abla86.github.io/developer-portfolio/)**  
+Projects, live demonstrations and implementation evidence.
+
+---
+
+<details>
+<summary><b>ENGINEERING STANDARD</b></summary>
+
+**build → test → validate → document**
+
+Claims are backed by implementation evidence.
+
+</details>
+
 <p align="center">
-  <sub>Roots = foundations · branches = capabilities · moving signal = work becoming proof.</sub>
+  <sub>Choose a branch. Follow the evidence.</sub>
 </p>
