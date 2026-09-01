@@ -1,39 +1,67 @@
-# Abla86
+# Anne Beth Andersen
 
-Cloud, automation, data and evidence-oriented engineering projects.
+**Developer · Cloud & automation · Data · Evidence-oriented software**
 
-## Engineering and evidence standard
+I build practical software at the intersection of **technology, healthcare, research and automation** — with an emphasis on systems that are understandable, testable and inspectable.
 
-Projects are maintained according to the same core principle: **claims must be traceable to the implementation and, where applicable, to the authoritative technical or methodological source.**
+[Portfolio](https://abla86.github.io/developer-portfolio/) · [Repositories](https://github.com/abla86?tab=repositories)
 
-That means:
+---
 
-- documentation describes implemented behaviour rather than intended behaviour;
-- automated tests are used where they can establish software behaviour;
-- security and dependency controls are applied where appropriate;
-- methodology-driven projects record the exact instrument/framework version and source;
-- historical or legacy functionality is preserved when it remains part of compatibility, provenance or project history;
-- prototype, demonstration, verified and production-ready status are kept distinct;
-- scientific/methodological validity is never claimed merely because software tests pass.
+## What I build
 
-## Featured projects
+| Area | Focus |
+|---|---|
+| **Application development** | React, TypeScript/JavaScript, Python, C#/.NET, APIs |
+| **Cloud & platform** | Azure, Docker, Kubernetes, infrastructure as code, CI/CD |
+| **Data & automation** | SQL, data workflows, analysis tooling, automation |
+| **Evidence & research** | Evidence appraisal, traceability, structured research workflows |
+| **Security-minded engineering** | DevSecOps, dependency/security controls, resilience and controlled demonstrations |
+
+## Selected public work
 
 ### Evidence Appraisal Tool
+Research-support software for structured evidence appraisal and research workflows, with explicit separation between **software verification** and **methodological validity**.
 
-A research-support application for structured evidence appraisal, document traceability, screening, extraction, reviewer comparison and research workflow support.
-
-Its methodology layer distinguishes instruments and versions rather than treating appraisal as one generic scoring system.
+**Repository:** [evidence-appraisal-tool](https://github.com/abla86/evidence-appraisal-tool)
 
 ### Azure Kubernetes Showcase
+A cloud-engineering project demonstrating **.NET, React/TypeScript, Docker, Kubernetes, Azure, infrastructure as code, DevSecOps and observability**.
 
-A cloud-engineering showcase covering .NET, React/TypeScript, Docker, Kubernetes, Azure infrastructure as code, DevSecOps, observability and controlled resilience/security demonstrations.
+**Repository:** [azure-kubernetes-showcase](https://github.com/abla86/azure-kubernetes-showcase)
 
-## Verification principle
+### Healthcare Workforce SQL
+A data-focused project using SQL to explore and work with healthcare workforce data.
 
-I prefer implementations that can be inspected and verified over claims that depend on screenshots or undocumented runtime state. Architecture decisions, operational trade-offs, test boundaries and known limitations should be documented alongside the code.
+**Repository:** [healthcare-workforce-sql](https://github.com/abla86/healthcare-workforce-sql)
 
-For research-support software, **software verification and methodological validation are separate claims**. A passing test demonstrates the tested software behaviour; it does not by itself establish scientific, clinical or methodological validity.
+### Healthcare Data Analyzer
+A focused data-analysis project in the healthcare domain.
 
-## Repository status
+**Repository:** [healthcare-data-analyzer](https://github.com/abla86/healthcare-data-analyzer)
 
-Repositories may represent active applications, prototypes, demonstrations, learning projects or preserved historical work. Status should be interpreted from the individual repository's current documentation and implementation rather than from repository age alone.
+---
+
+## Engineering principles
+
+- **Show implementation, not just claims.**
+- Keep **prototype, demonstration, verified and production-ready** clearly separated.
+- Use automated tests where they can establish software behaviour.
+- Document architecture, trade-offs, boundaries and known limitations.
+- Keep security and dependency controls proportionate to the project.
+- For research-support software, distinguish **software correctness from scientific or methodological validity**.
+- Prefer small, composable systems that can evolve without unnecessary rewrites.
+
+## Current direction
+
+Building a portfolio of **inspectable, evidence-oriented software projects** that demonstrate full-stack development, cloud engineering, data work, automation and responsible technical reasoning.
+
+> **Build → test → document → validate.**
+
+---
+
+### Find more
+
+**Portfolio:** https://abla86.github.io/developer-portfolio/
+
+**GitHub:** https://github.com/abla86
