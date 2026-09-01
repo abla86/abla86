@@ -1,90 +1,95 @@
 # Anne Beth Andersen
 
-**Developer · Cloud · Automation · Data · Evidence-oriented software**
-
-I build inspectable systems where **software engineering, healthcare, research, data and automation** meet.
+**Software · Cloud · Evidence · Healthcare**
 
 <p align="center">
-  <img src="./assets/yggdrasil.svg" alt="Yggdrasil engineering system" width="100%"/>
+  <a href="https://abla86.github.io/developer-portfolio/">
+    <img src="./assets/profile-tree.svg" alt="Animated engineering tree — software, cloud, evidence and healthcare" width="100%"/>
+  </a>
 </p>
-
-## 🎮 PLAYGROUND
 
 <p align="center">
-  <a href="https://abla86.github.io/developer-portfolio/#interactive-engineering-lab"><img src="./assets/playground.svg" alt="Interactive engineering playground" width="100%"/></a>
+  <b>Systems are the portfolio.</b><br>
+  <a href="https://abla86.github.io/developer-portfolio/">ENTER PORTFOLIO ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/abla86?tab=repositories">REPOSITORIES ↗</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:annebeth.andersen@gmail.com">CONTACT ↗</a>
 </p>
 
-| 🕸️ Network State | 🛡️ Agent Defence | 🧪 Evidence Lab |
-|---|---|---|
-| **[PLAY ↗](https://abla86.github.io/developer-portfolio/#interactive-engineering-lab)** | **[PLAY ↗](https://abla86.github.io/developer-portfolio/#interactive-engineering-lab)** | **[OPEN ↗](https://abla86.github.io/developer-portfolio/)** |
+---
 
-### ⚡ Small things. Different languages. Real code.
+## / SIGNAL
 
-**JavaScript** · **TypeScript** · **Python** · **C#/.NET** · **SQL** · **HTML/CSS**
+I build **inspectable software** where engineering, healthcare, research, data, cloud and automation meet.
 
-[Clock](https://abla86.github.io/developer-portfolio/desktop-clock.html) · [Portfolio Lab](https://abla86.github.io/developer-portfolio/) · [All repositories](https://github.com/abla86?tab=repositories)
+The profile is intentionally a **navigation layer**, not a second portfolio.  
+Detailed project histories, technical write-ups, demonstrations and evidence live in the portfolio.
 
-## 🌳 HOW THE PROJECTS CONNECT
+## / CHOOSE A BRANCH
 
-Yggdrasil is the map. The repositories are the branches.
-
-| Branch | Focus |
+| Branch | What you will find |
 |---|---|
-| **Software** | React · TypeScript/JavaScript · Python · C#/.NET · APIs |
-| **Cloud** | Azure · Docker · Kubernetes · IaC · CI/CD |
-| **Data** | SQL · analysis · automation · tooling |
-| **Evidence** | appraisal · traceability · structured research workflows |
-| **Healthcare** | clinical domain · health technology · data |
-| **Security** | DevSecOps · dependency controls · resilience · controlled demonstrations |
+| **CORE** | Python · TypeScript · React · C#/.NET · APIs · testing |
+| **CLOUD** | Azure · Kubernetes · Docker · CI/CD · platform engineering |
+| **EVIDENCE** | research-support software · appraisal · traceability |
+| **HEALTHCARE** | clinical domain · health technology · structured workflows |
+| **SECURITY** | DevSecOps · controls · resilience · security-aware engineering |
+| **DATA** | structured data · validation · automation · analysis |
 
-## 🚀 SELECTED PROJECTS
+## / ACTIVE SYSTEMS
 
-These are the projects I want a technical visitor or potential employer to see first.
+**[AgentTrace](https://github.com/abla86/agenttrace)** — policy, provenance, audit and evaluation technology.
 
-### Evidence Appraisal Tool
-Research-support software for structured evidence appraisal and research workflows.
+**[Azure Kubernetes Showcase](https://github.com/abla86/azure-kubernetes-showcase)** — cloud/platform engineering across Azure, Kubernetes, containers, CI/CD and DevSecOps.
 
-**[Repository →](https://github.com/abla86/evidence-appraisal-tool)**
+**[CodeSentinel](https://github.com/abla86/CodeSentinel)** — security-oriented repository and code safeguards.
 
-### Azure Kubernetes Showcase
-Full-stack/cloud engineering across **.NET, React/TypeScript, Docker, Kubernetes, Azure, IaC, DevSecOps and observability**.
+**[HealthTech Device API](https://github.com/abla86/HealthTechDeviceApi)** — .NET healthcare-technology API work.
 
-**[Repository →](https://github.com/abla86/azure-kubernetes-showcase)**
+## / PROOF
 
-### CodeSentinel
-Security-oriented engineering project focused on code/repository safeguards and automated controls.
+I prefer evidence over claims:
 
-**[Repository →](https://github.com/abla86/CodeSentinel)**
+`build → test → document → validate`
 
-### RAVENTA
-An independent technical project exploring a different system architecture and interaction model.
+- Public code where the project is ready for inspection
+- CI and automated tests where they provide meaningful verification
+- Explicit separation between prototype, demonstration, verified and production-ready status
+- Architecture and dependency boundaries documented rather than implied
+- Research-support software kept distinct from claims of scientific validity
 
-**[Repository →](https://github.com/abla86/RAVENTA)**
+<details>
+<summary><b>Why the tree?</b></summary>
 
-## 🧰 THE SMALL PROJECTS ARE STILL THERE
+Yggdrasil is used as a visual model rather than decoration.
 
-Calculator, digital clock, counters, Todo, task manager and other small projects are deliberately **not the headline of this profile**.
+The branches represent capabilities.  
+The roots represent foundations.  
+The moving signal represents work travelling from capability to implementation to proof.
 
-They remain useful as evidence of progression and can be explored through the portfolio/repositories.
+The portfolio is the detailed map. GitHub is the evidence.
 
-**[Browse all repositories →](https://github.com/abla86?tab=repositories)**
+</details>
 
-## 🔬 ENGINEERING STANDARD
+<details>
+<summary><b>Current direction</b></summary>
 
-**Build → test → document → validate.**
+Building a coherent body of work across:
 
-- Show implementation rather than claims.
-- Keep prototype, demonstration, verified and production-ready status distinct.
-- Test software behaviour where tests can establish it.
-- Document architecture, trade-offs, boundaries and limitations.
-- Apply security and dependency controls proportionately.
-- For research-support software, distinguish **software correctness** from **scientific/methodological validity**.
+- full-stack engineering
+- Python and .NET
+- Azure and Kubernetes
+- CI/CD and DevSecOps
+- research-support software
+- healthcare technology
+- data and automation
 
-## CURRENT DIRECTION
+The goal is not to maximise the number of repositories shown. It is to make the strongest systems easy to inspect.
 
-Building a portfolio of **full-stack, cloud, data and evidence-oriented software** that can be inspected, tested and extended.
+</details>
 
 <p align="center">
-  <b>Don't just read the profile. Explore it.</b><br>
-  <a href="https://abla86.github.io/developer-portfolio/">ENTER THE PORTFOLIO →</a>
+  <br>
+  <a href="https://abla86.github.io/developer-portfolio/"><b>EXPLORE THE FULL SYSTEM →</b></a>
 </p>
