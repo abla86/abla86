@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 520" role="img" aria-labelledby="t d">
+<title id="t">Anne Beth Andersen — living engineering tree</title>
+<desc id="d">An animated Yggdrasil-inspired map connecting software, cloud, data, security, evidence and healthcare.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#061019"/><stop offset="1" stop-color="#101b2b"/></linearGradient>
+  <linearGradient id="wood" x1="0" y1="1" x2="0" y2="0"><stop stop-color="#5de0ad"/><stop offset=".55" stop-color="#9fb8ff"/><stop offset="1" stop-color="#e5f4ff"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1400" height="520" rx="30" fill="url(#bg)"/>
+<g opacity=".10" stroke="#b7c8df"><path d="M70 105H1330M70 205H1330M70 405H1330"/><path d="M180 55V465M400 55V465M1000 55V465M1220 55V465"/></g>
+<text x="70" y="55" fill="#72e0b1" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="4">AB · LIVING ENGINEERING MAP</text>
+<text x="70" y="80" fill="#8fa4bc" font-family="Arial,sans-serif" font-size="13">capability → implementation → proof</text>
+
+<!-- roots -->
+<g fill="none" stroke="url(#wood)" stroke-width="5" stroke-linecap="round" opacity=".8">
+ <path d="M700 410 C610 450 540 475 420 490"/><path d="M700 410 C650 458 610 480 565 500"/>
+ <path d="M700 410 C750 458 790 480 835 500"/><path d="M700 410 C800 450 880 475 990 490"/>
+</g>
+<g font-family="Arial,sans-serif" font-size="11" text-anchor="middle">
+ <g fill="#07111c" stroke="#779cff"><rect x="340" y="475" width="160" height="32" rx="9"/><rect x="505" y="486" width="120" height="28" rx="9"/><rect x="775" y="486" width="120" height="28" rx="9"/><rect x="900" y="475" width="160" height="32" rx="9"/></g>
+ <g fill="#d9e7f5"><text x="420" y="496">RESEARCH</text><text x="565" y="505">DATA</text><text x="835" y="505">AUTOMATION</text><text x="980" y="496">SECURITY</text></g>
+</g>
+
+<!-- trunk -->
+<g fill="none" stroke="url(#wood)" stroke-linecap="round" filter="url(#glow)">
+ <path d="M700 425 C670 350 690 270 700 180" stroke-width="30" opacity=".75"/>
+ <path d="M700 420 C700 330 700 250 700 125" stroke="#e3fff4" stroke-width="5"/>
+ <path d="M700 300 C635 265 580 230 500 205" stroke-width="5"/>
+ <path d="M700 330 C770 290 825 245 900 205" stroke-width="5"/>
+ <path d="M700 260 C650 220 620 170 590 110" stroke-width="5"/>
+ <path d="M700 260 C750 220 790 170 820 110" stroke-width="5"/>
+</g>
+
+<!-- orbit -->
+<g fill="none" stroke="#7da7ff" opacity=".18"><circle cx="700" cy="285" r="105"/><circle cx="700" cy="285" r="145"/></g>
+
+<!-- moving energy -->
+<g fill="#dffff3" filter="url(#glow)">
+ <circle r="5"><animateMotion dur="4s" repeatCount="indefinite" path="M700 430 C670 350 690 270 700 180"/></circle>
+ <circle r="4"><animateMotion dur="5s" begin=".7s" repeatCount="indefinite" path="M700 300 C635 265 580 230 500 205"/></circle>
+ <circle r="4"><animateMotion dur="5.5s" begin="1.3s" repeatCount="indefinite" path="M700 330 C770 290 825 245 900 205"/></circle>
+ <circle r="4"><animateMotion dur="4.8s" begin="2s" repeatCount="indefinite" path="M700 260 C750 220 790 170 820 110"/></circle>
+</g>
+
+<!-- nodes -->
+<g font-family="Arial,sans-serif" text-anchor="middle">
+ <g fill="#07111c" stroke="#72e0b1" stroke-width="2">
+  <rect x="405" y="175" width="190" height="60" rx="14"/><rect x="805" y="175" width="190" height="60" rx="14"/>
+  <rect x="500" y="80" width="180" height="60" rx="14"/><rect x="720" y="80" width="200" height="60" rx="14"/>
+ </g>
+ <g fill="#e0ecf8" font-size="15" font-weight="700">
+  <text x="500" y="201">SOFTWARE</text><text x="900" y="201">CLOUD</text><text x="590" y="106">EVIDENCE</text><text x="820" y="106">HEALTHCARE</text>
+ </g>
+ <g fill="#91a6bd" font-size="11">
+  <text x="500" y="220">React · Python · .NET · APIs</text><text x="900" y="220">Azure · Docker · Kubernetes</text>
+  <text x="590" y="125">traceability · research workflows</text><text x="820" y="125">clinical domain · health technology</text>
+ </g>
+</g>
+
+<!-- core -->
+<circle cx="700" cy="285" r="42" fill="#07111c" stroke="#72e0b1" stroke-width="3" filter="url(#glow)">
+ <animate attributeName="r" values="40;45;40" dur="3s" repeatCount="indefinite"/>
+</circle>
+<text x="700" y="281" text-anchor="middle" fill="#eafff6" font-family="Arial,sans-serif" font-size="12" font-weight="700">BUILD</text>
+<text x="700" y="299" text-anchor="middle" fill="#91a6bd" font-family="Arial,sans-serif" font-size="9">TEST · DOCUMENT · VALIDATE</text>
+
+<!-- right status -->
+<g font-family="Arial,sans-serif">
+ <text x="1120" y="310" fill="#72e0b1" font-size="12" font-weight="700" letter-spacing="2">LIVE PROFILE</text>
+ <text x="1120" y="340" fill="#e0ecf8" font-size="18" font-weight="700">Not a résumé.</text>
+ <text x="1120" y="366" fill="#91a6bd" font-size="12">A map of systems,</text>
+ <text x="1120" y="385" fill="#91a6bd" font-size="12">evidence and engineering.</text>
+ <text x="1120" y="425" fill="#72e0b1" font-size="11">OPEN THE PORTFOLIO ↗</text>
+</g>
+</svg>
