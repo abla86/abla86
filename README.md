@@ -1,3 +1,9 @@
+# Immutable Core
+
+This profile repository is a protected profile source. The Yggdrasil assets and profile presentation are immutable core content and must not be removed, archived, deduplicated, overwritten, or modified by automated repository-cleanup workflows.
+
+Any intentional change requires an explicit profile-maintenance change reviewed against the existing Yggdrasil source history.
+
 <div align="center">
 
 # Anne Beth Andersen
@@ -19,8 +25,8 @@
   <img src="https://avatars.githubusercontent.com/u/195699472?v=4" alt="Anne Beth Andersen" width="210"/>
 </td>
 <td width="77%" align="center" valign="middle">
-  <a href="https://github.com/abla86/abla86/blob/main/assets/profile-tree.svg">
-    <img src="./assets/profile-tree.svg" alt="Interactive Yggdrasil engineering map" width="100%"/>
+  <a href="https://github.com/abla86/abla86/blob/main/assets/yggdrasil.svg">
+    <img src="./assets/yggdrasil.svg" alt="Interactive Yggdrasil engineering map" width="100%"/>
   </a>
 </td>
 </tr>
