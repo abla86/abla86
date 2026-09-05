@@ -1,9 +1,3 @@
-# Immutable Core
-
-This profile repository is a protected profile source. The Yggdrasil assets and profile presentation are immutable core content and must not be removed, archived, deduplicated, overwritten, or modified by automated repository-cleanup workflows.
-
-Any intentional change requires an explicit profile-maintenance change reviewed against the existing Yggdrasil source history.
-
 <div align="center">
 
 # Anne Beth Andersen
