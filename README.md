@@ -13,6 +13,29 @@
 
 ---
 
+<table>
+<tr>
+<td width="23%" align="center" valign="middle">
+  <img src="https://avatars.githubusercontent.com/u/195699472?v=4" alt="Anne Beth Andersen" width="210"/>
+</td>
+<td width="77%" align="center" valign="middle">
+  <a href="https://github.com/abla86/abla86/blob/main/assets/profile-tree.svg">
+    <img src="./assets/profile-tree.svg" alt="Interactive Yggdrasil engineering map" width="100%"/>
+  </a>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/abla86/abla86/blob/main/assets/yggdrasil.svg"><b>YGGDRASIL</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://abla86.github.io/developer-portfolio/"><b>INTERACTIVE PORTFOLIO</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/abla86?tab=repositories"><b>CODE</b></a>
+</p>
+
+---
+
 ## Engineering profile
 
 I build **research, HealthTech and full-stack software** with an emphasis on traceability, modular architecture, validation, security and usable interfaces.
