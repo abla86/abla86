@@ -179,3 +179,37 @@ The portfolio is intended to present projects by **technology, architecture, dom
 <a href="https://github.com/abla86?tab=stars">Stars</a> ·
 <a href="https://github.com/abla86?tab=projects">Projects</a>
 
+
+
+---
+
+## Developer ecosystem
+
+The public GitHub profile is complemented by an external Google Developer Program profile. Rather than reproducing achievement badges here, this section records the **developer ecosystem and learning context** behind the portfolio.
+
+### Google Developer Program
+
+**Public profile:** [Google Developer Profile](https://me.developers.google.com/u/me)
+
+The profile currently shows activity and participation across:
+
+- **AI & Machine Learning**
+- **Cloud Security**
+- **Google Security Operations / SIEM / SOAR**
+- **Google Threat Intelligence**
+- **Firebase**
+- **Kubernetes / Google Kubernetes Engine**
+- **Chrome DevTools**
+- **Android Security and Privacy**
+- **Developer tooling and cloud platform learning**
+- **Google Developer Group community participation**
+- **GDG Bergen**
+- **GEAR / agent-development learning**
+
+### How this is represented in this portfolio
+
+These are treated as **ecosystem context**, not as claims that every listed technology has been independently demonstrated in a public repository.
+
+The portfolio continues to use repository evidence for concrete engineering claims. Google Developer Program activity provides additional context about ongoing learning, developer-community participation and platform exposure.
+
+**External profile:** [View the Google Developer Profile](https://me.developers.google.com/u/me)
