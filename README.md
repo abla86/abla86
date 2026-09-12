@@ -4,212 +4,70 @@
 
 ### Full-stack developer · HealthTech · Evidence-informed systems · Cloud & DevOps
 
-<a href="https://github.com/abla86/complete-evidence-appraisal-tool">Evidence Appraisal</a> ·
-<a href="https://abla86.github.io/developer-portfolio/">Interactive Portfolio</a> ·
-<a href="https://github.com/abla86/academic-research-engine">Research Engine</a> ·
-<a href="https://github.com/abla86/azure-kubernetes-showcase">Azure + Kubernetes</a>
+[Evidence & Research](https://github.com/abla86/complete-evidence-appraisal-tool) · [CodeSentinel](https://github.com/abla86/CodeSentinel) · [HealthTech](https://github.com/abla86/healthtech-dashboard) · [Azure + Kubernetes](https://github.com/abla86/azure-kubernetes-showcase) · [Engineering Lab](https://github.com/abla86/AB-Engineering-Lab)
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="23%" align="center" valign="middle">
-  <img src="https://avatars.githubusercontent.com/u/195699472?v=4" alt="Anne Beth Andersen" width="210"/>
-</td>
-<td width="77%" align="center" valign="middle">
-  <a href="https://github.com/abla86/abla86/blob/main/assets/yggdrasil.svg">
-    <img src="./assets/yggdrasil.svg" alt="Interactive Yggdrasil engineering map" width="100%"/>
-  </a>
-</td>
-</tr>
-</table>
+## Portfolio architecture
 
-<p align="center">
-  <a href="https://github.com/abla86/abla86/blob/main/assets/yggdrasil.svg"><b>YGGDRASIL</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://abla86.github.io/developer-portfolio/"><b>INTERACTIVE PORTFOLIO</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/abla86?tab=repositories"><b>CODE</b></a>
-</p>
+The portfolio is intentionally consolidated. A capability should have **one canonical implementation**, not several similarly named repositories.
 
----
+| Canonical system | Purpose |
+|---|---|
+| **Evidence & Research** | Critical appraisal, research workflow, evidence traceability, methodology integrity, implementation research and privacy/data-governance support |
+| **CodeSentinel** | GitHub App and multi-agent software-engineering analysis: planning, code analysis, testing evidence, security heuristics and release/CI evidence |
+| **HealthTech** | Healthcare dashboard, device/API integration, analytics and workforce/competence functionality |
+| **Azure + Kubernetes** | Cloud infrastructure, containers, Kubernetes and CI/CD showcase |
+| **AB-Engineering-Lab** | Small exercises, reusable experiments and technology-specific labs that do not justify standalone product repositories |
+| **Developer Portfolio** | Presentation and navigation; not a second implementation of the products |
+
+## Consolidation status
+
+The former repository sprawl is being reduced into these canonical systems. Related repositories are treated as source material and historical records rather than parallel products.
+
+### Evidence & Research absorbed scope
+
+`evidence-appraisal-tool` · `complete-evidence-appraisal-tool-` · `Evidence-OS` · `EvidenceOps-AI` · `ResearchForge-OS` · `CritiqEvidence` · `academic-research-engine` · `research-privacy-inspector` · `Artikkelanalysator-Pr` · `implementation-trace` · `evidence-practice-proof` · `change-impact-mapper`
+
+### HealthTech absorbed scope
+
+`HealthTechDeviceApi` · `healthcare-data-analyzer` · `healthcare-workforce-sql` · `shift-competence-planner` · `workforce-competence-management`
+
+### Cloud/DevOps absorbed scope
+
+`devops-lab` · `cloud-waste-auditor` · `k8s-pod-doctor` · `git-secrets-sentinel` · `security-lab` · `systems-lab` · `data-lab` · `lab-core`
+
+### Learning/demo scope
+
+Small exercises such as `todo-app`, `task-manager`, `react-task-dashboard`, `FastAPI-Learning`, `javascript-counter`, `advanced-javascript-counter`, `digital-clock`, `calculator`, `hello-html`, Git/Copilot learning repositories and similar experiments belong in the Engineering Lab rather than the flagship portfolio.
 
 ## Engineering profile
 
-I build **research, HealthTech and full-stack software** with an emphasis on traceability, modular architecture, validation, security and usable interfaces.
+- **Frontend:** React, TypeScript, JavaScript, HTML, CSS
+- **Backend:** Python, FastAPI, .NET, C#, REST APIs
+- **Cloud/platform:** Azure, Kubernetes, Docker, GitHub Actions, CI/CD
+- **Research/evidence:** AMSTAR 2, CASP, JBI, AGREE II, GRADE, PRISMA, evidence traceability
+- **Data:** Python, SQL, healthcare analytics
+- **AI/software engineering:** GitHub Apps, agent workflows, code analysis, security and test evidence
 
-### Technology map
+## Evidence rule
 
-| Area | Technologies | Public evidence |
-|---|---|---|
-| Frontend | **React · TypeScript · JavaScript · HTML · CSS** | [Complete Evidence](https://github.com/abla86/complete-evidence-appraisal-tool) · [HealthTech Dashboard](https://github.com/abla86/healthtech-dashboard) · [Kana Dojo](https://github.com/abla86/kana-dojo) |
-| Next.js | **Next.js / React ecosystem** | Planned showcase — no current public Next.js repository claimed |
-| Backend | **Python · FastAPI · .NET · C# · REST APIs** | [FastAPI Learning](https://github.com/abla86/FastAPI-Learning) · [HealthTechDeviceApi](https://github.com/abla86/HealthTechDeviceApi) · [Azure Kubernetes Showcase](https://github.com/abla86/azure-kubernetes-showcase) |
-| JVM | **Kotlin** | [Cross-device SDK](https://github.com/abla86/cross-device-sdk) |
-| Java | **Java** | Planned showcase — no current public Java repository claimed |
-| Cloud | **Azure · Kubernetes · Docker · CI/CD** | [Azure Kubernetes Showcase](https://github.com/abla86/azure-kubernetes-showcase) · [DevOps Lab](https://github.com/abla86/devops-lab) |
-| Messaging | **Kafka** | Planned showcase — no current public Kafka repository claimed |
-| Research / evidence | **AMSTAR 2 · CASP · JBI · AGREE II · PRISMA · IMRaD · evidence traceability** | [Complete Evidence Appraisal Tool](https://github.com/abla86/complete-evidence-appraisal-tool) |
-| Data / analytics | **Python · SQL · healthcare analytics** | [Healthcare Data Analyzer](https://github.com/abla86/healthcare-data-analyzer) · [Healthcare Workforce SQL](https://github.com/abla86/healthcare-workforce-sql) |
+A README is not treated as proof that a capability exists. Portfolio claims should point to executable code, tests, CI evidence or a clearly labelled prototype/planned boundary.
 
-> **Accuracy rule:** this profile distinguishes between technology that has public repository evidence and technology that still needs a dedicated public showcase. Private repositories are deliberately excluded from the public technology claims.
+Private projects are not presented as public technical evidence until they have been reviewed for secrets, credentials, personal data and other material that must not be published.
 
----
+## Security and quality
 
-## Featured systems
+Canonical projects should prefer:
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- least-privilege GitHub permissions;
+- dependency and secret scanning;
+- CodeQL where applicable;
+- automated tests and builds;
+- Docker verification where applicable;
+- explicit limitations instead of fabricated success claims;
+- one implementation per capability.
 
-### Evidence Appraisal Platform
-
-A modular evidence-appraisal system designed to bring study classification, methodological appraisal, validation, evidence traceability and research workflow into one architecture.
-
-**Stack:** React · TypeScript · research workflows · validation · evidence methodology
-
-<a href="https://github.com/abla86/complete-evidence-appraisal-tool">View repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### Azure + Kubernetes
-
-Cloud/DevOps showcase covering containerised application architecture, Azure and Kubernetes concepts.
-
-**Stack:** Azure · Kubernetes · Docker · React · .NET/Python
-
-<a href="https://github.com/abla86/azure-kubernetes-showcase">View repository →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Academic Research Engine
-
-Standalone research/search capability designed to remain useful independently while also being integrable into larger systems.
-
-**Stack:** TypeScript · research workflows
-
-<a href="https://github.com/abla86/academic-research-engine">View repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### Research Privacy Inspector
-
-Standalone inspection capability for research/privacy-oriented workflows.
-
-**Stack:** JavaScript · research tooling
-
-<a href="https://github.com/abla86/research-privacy-inspector">View repository →</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<details>
-<summary><strong>Explore the stack</strong></summary>
-
-### Frontend
-- React
-- TypeScript
-- JavaScript
-- HTML/CSS
-- Interactive dashboards and research interfaces
-
-### Backend
-- Python
-- FastAPI
-- C#
-- .NET
-- REST APIs
-
-### Cloud / platform
-- Azure
-- Kubernetes
-- Docker
-- CI/CD
-- GitHub Actions
-
-### Other target technologies
-- Kotlin
-- Next.js
-- Java
-- Kafka
-
-The last four are kept visible as **target/showcase areas** until there is public repository evidence. This avoids presenting a technology as demonstrated when the public GitHub record does not currently support that claim.
-
-</details>
-
-<details>
-<summary><strong>Architecture principle</strong></summary>
-
-The larger systems are being organised as **one canonical application plus reusable standalone modules**.
-
-A module should be able to:
-
-1. run independently;
-2. expose a stable contract;
-3. integrate into the super-application;
-4. fail in an isolated way unless a dependency is explicitly blocking;
-5. remain reusable by another application without copying the implementation.
-
-</details>
-
-<details>
-<summary><strong>Public portfolio</strong></summary>
-
-<a href="https://abla86.github.io/developer-portfolio/">Open the interactive developer portfolio →</a>
-
-The portfolio is intended to present projects by **technology, architecture, domain and demonstrable capability**, rather than simply listing repository names.
-
-</details>
-
----
-
-## GitHub
-
-<a href="https://github.com/abla86?tab=repositories">All public repositories</a> ·
-<a href="https://github.com/abla86?tab=stars">Stars</a> ·
-<a href="https://github.com/abla86?tab=projects">Projects</a>
-
-
-
----
-
-## Developer ecosystem
-
-The public GitHub profile is complemented by an external Google Developer Program profile. Rather than reproducing achievement badges here, this section records the **developer ecosystem and learning context** behind the portfolio.
-
-### Google Developer Program
-
-**Public profile:** [Google Developer Profile](https://me.developers.google.com/u/me)
-
-The profile currently shows activity and participation across:
-
-- **AI & Machine Learning**
-- **Cloud Security**
-- **Google Security Operations / SIEM / SOAR**
-- **Google Threat Intelligence**
-- **Firebase**
-- **Kubernetes / Google Kubernetes Engine**
-- **Chrome DevTools**
-- **Android Security and Privacy**
-- **Developer tooling and cloud platform learning**
-- **Google Developer Group community participation**
-- **GDG Bergen**
-- **GEAR / agent-development learning**
-
-### How this is represented in this portfolio
-
-These are treated as **ecosystem context**, not as claims that every listed technology has been independently demonstrated in a public repository.
-
-The portfolio continues to use repository evidence for concrete engineering claims. Google Developer Program activity provides additional context about ongoing learning, developer-community participation and platform exposure.
-
-**External profile:** [View the Google Developer Profile](https://me.developers.google.com/u/me)
+See [AB-Engineering-Lab consolidation rules](https://github.com/abla86/AB-Engineering-Lab/blob/main/PORTFOLIO-CONSOLIDATION.md) for the repository map and boundaries.
