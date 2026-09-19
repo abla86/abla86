@@ -52,7 +52,7 @@ Primary areas:
 
 | Domain | Canonical home |
 |---|---|
-| Evidence & Research | `complete-evidence-appraisal-tool` · `academic-research-engine` |
+| Evidence & Research | `complete-evidence-appraisal-tool` (incl. `archive/academic-research-engine`) |
 | Software engineering / GitHub security | `CodeSentinel` |
 | HealthTech | `HealthTechDeviceApi` · `healthtech-dashboard` |
 | Cloud / Kubernetes | `azure-kubernetes-showcase` |
