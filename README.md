@@ -6,7 +6,7 @@
 
 **I build systems where implementation, testing and traceability matter.**
 
-[Portfolio](https://abla86.github.io/developer-portfolio/) · [Projects](https://abla86.github.io/developer-portfolio/projects.html) · [Stack](https://abla86.github.io/developer-portfolio/stack.html) · [Repositories](https://github.com/abla86?tab=repositories)
+[Interactive portfolio →](https://abla86.github.io/developer-portfolio/)
 
 </div>
 
@@ -16,60 +16,42 @@
 
 | System | Focus |
 |---|---|
-| **Complete Evidence Appraisal Tool** | Research workflows · React · TypeScript · evidence methodology |
-| **Academic Research Engine** | Source-grounded research · provenance · TypeScript · reusable services |
-| **Azure Kubernetes Showcase** | Azure · Kubernetes · Docker · CI/CD · DevSecOps |
-| **HealthTechDeviceApi** | C# · .NET · ASP.NET Core · APIs |
-| **CodeSentinel** | GitHub automation · security verification · engineering evidence |
-| **AgentTrace** | AI-agent policy · provenance · evaluation · tool boundaries |
+| [**Complete Evidence Appraisal Tool**](https://github.com/abla86/complete-evidence-appraisal-tool) | Research workflows · React · TypeScript · evidence methodology (AMSTAR 2, CASP, AGREE II) |
+| [**CodeSentinel**](https://github.com/abla86/CodeSentinel) | GitHub automation · repository intelligence · security verification |
+| [**AgentTrace**](https://github.com/abla86/agenttrace) | AI-agent tracing · policy · provenance · audit · Python |
+| [**HealthTechDeviceApi**](https://github.com/abla86/HealthTechDeviceApi) | C# · .NET · ASP.NET Core · device API · healthcare data |
+| [**Workforce & Competence Management**](https://github.com/abla86/workforce-competence-management) | C# · ASP.NET Core · React · SQL Server · Docker · staffing gap analysis |
+| [**Azure Kubernetes Showcase**](https://github.com/abla86/azure-kubernetes-showcase) | Azure · Kubernetes · Docker · Terraform/Bicep · CI/CD · DevSecOps |
+| [**Book Forge**](https://github.com/abla86/book-forge) | AI full-stack application · React · Express · story bible · continuity · includes Trusity (AI presentation generator) |
+| [**WPWW War Room**](https://github.com/abla86/wpww-warroom) | Operations · resilience · simulation · controlled security experiments (under review) |
+| [**AB Engineering Lab**](https://github.com/abla86/AB-Engineering-Lab) | Small, tested demonstrations: JavaScript, React, FastAPI, Next.js, Java, Kotlin, Go |
 
-## Engineering focus
+## Languages and technologies
 
-The repositories are being consolidated into a smaller set of substantial, inspectable systems rather than a collection of disconnected demos.
-
-Primary areas:
-
-- TypeScript / Node.js and React
-- C# / .NET / ASP.NET Core
-- Python / FastAPI
-- Azure · Kubernetes · Docker · CI/CD
-- GitHub automation and DevSecOps
-- Research and evidence software
-- HealthTech and implementation tooling
-- Data, APIs, validation and traceability
+TypeScript / JavaScript · React · Next.js · Node.js · C# / .NET · Python / FastAPI · Java · Kotlin · Go · SQL / T-SQL · Docker · Kubernetes · Terraform / Bicep · GitHub Actions
 
 ## Repository strategy
 
-**One canonical implementation per capability.**
-
-- Flagship systems remain public and visible.
-- Duplicate implementations are consolidated into their strongest canonical repository.
-- Older training exercises are kept as clearly separated historical material.
-- Public claims are tied to code, tests, CI evidence or explicitly labelled prototypes.
-- Shared functionality belongs in the canonical system instead of another duplicate repository.
-
-### Canonical homes
+**One canonical implementation per capability.** Duplicate and older repositories were merged, with full git history, into the strongest repository as `archive/<name>/`, and the originals were removed after every file was verified.
 
 | Domain | Canonical home |
 |---|---|
-| Evidence & Research | `complete-evidence-appraisal-tool` (incl. `archive/academic-research-engine`) |
-| Software engineering / GitHub security | `CodeSentinel` |
-| HealthTech | `HealthTechDeviceApi` · `healthtech-dashboard` |
+| Evidence & research | `complete-evidence-appraisal-tool` |
+| Security / GitHub | `CodeSentinel` |
+| AI agents | `agenttrace` |
+| HealthTech | `HealthTechDeviceApi` |
+| Workforce planning | `workforce-competence-management` |
 | Cloud / Kubernetes | `azure-kubernetes-showcase` |
+| Operations / war room | `wpww-warroom` |
+| Books & content | `book-forge` |
 | Engineering experiments | `AB-Engineering-Lab` |
-| AI / agents | `AgentTrace` · `Autonomous-Multi-Agent-App-Builder` |
 | Presentation | `developer-portfolio` |
 
-Older repositories that overlap these domains are treated as historical source material rather than additional flagship products.
+Public claims are tied to code, tests and CI. `archive/` folders keep history and are excluded from builds. `Total-control-defence-lab-` and `Autonomous-Multi-Agent-App-Builder` are kept as historical material.
 
 ## Interactive portfolio
 
-The website is the presentation layer over the strongest repositories:
-
-- **Project Atlas** — discover the main systems.
-- **Engineering Stack** — connect technologies to concrete projects.
-- **Interactive Labs** — engineering experiments and demonstrations.
-- **Research Software** — evidence, reproducibility and methodological tooling.
+The portfolio is an interactive engineering map: choose a platform, language or technology and follow the link straight to the code that demonstrates it.
 
 [Open the portfolio →](https://abla86.github.io/developer-portfolio/)
 
