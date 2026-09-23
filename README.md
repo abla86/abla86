@@ -47,7 +47,7 @@ TypeScript / JavaScript · React · Next.js · Node.js · C# / .NET · Python / 
 | Engineering experiments | `AB-Engineering-Lab` |
 | Presentation | `developer-portfolio` |
 
-Public claims are tied to code, tests and CI. `archive/` folders keep history and are excluded from builds. `Total-control-defence-lab-` and `Autonomous-Multi-Agent-App-Builder` are kept as historical material.
+Public claims are tied to code, tests and CI. `archive/` folders keep history and are excluded from builds.
 
 ## Interactive portfolio
 
