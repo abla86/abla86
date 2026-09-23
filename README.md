@@ -51,7 +51,7 @@ Public claims are tied to code, tests and CI. `archive/` folders keep history an
 
 ## Interactive portfolio
 
-The portfolio is an interactive engineering map: choose a platform, language or technology and follow the link straight to the code that demonstrates it.
+The portfolio is an interactive engineering map: choose a platform, language or technology and follow the link straight to the code that demonstrates it. Active repositories are the source of truth; archived or deleted repositories are historical evidence only.
 
 [Open the portfolio →](https://abla86.github.io/developer-portfolio/)
 
