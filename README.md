@@ -4,115 +4,107 @@
 
 ### Software Architecture · DevOps Engineering · Research Methods · Healthcare IT
 
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1100&color=58C7FF&center=true&vCenter=true&width=820&lines=Evidence+%E2%86%92+Architecture+%E2%86%92+Implementation+%E2%86%92+Verification;Software+systems+with+traceable+engineering+workflows;Research-informed+technology+for+real-world+problems)](https://github.com/abla86)
+<a href="https://abla86.github.io/developer-portfolio/">
+  <img src="https://raw.githubusercontent.com/abla86/abla86/main/assets/identity-swarm.svg" alt="Open the interactive Anne Beth ecosystem" width="900">
+</a>
 
-[![Explore the ecosystem](https://img.shields.io/badge/EXPLORE%20THE%20ECOSYSTEM-58C7FF?style=for-the-badge&logo=github&logoColor=07131E)](https://abla86.github.io/developer-portfolio/)
-[![Recruiter Mode](https://img.shields.io/badge/RECRUITER%20MODE-55D58A?style=for-the-badge)](https://abla86.github.io/developer-portfolio/#recruiter)
-[![Technical Deep Dive](https://img.shields.io/badge/TECHNICAL%20DEEP%20DIVE-79B8FF?style=for-the-badge)](https://abla86.github.io/developer-portfolio/#technical)
-[![Research Mode](https://img.shields.io/badge/RESEARCH%20MODE-A98CFF?style=for-the-badge)](https://abla86.github.io/developer-portfolio/#research)
+<p><strong>CLICK THE VISUALS — EACH ONE IS A REAL NAVIGATION TARGET</strong></p>
+
+<a href="https://abla86.github.io/developer-portfolio/#recruiter">RECRUITER</a> ·
+<a href="https://abla86.github.io/developer-portfolio/#technical">TECHNICAL</a> ·
+<a href="https://abla86.github.io/developer-portfolio/#research">RESEARCH</a> ·
+<a href="https://abla86.github.io/developer-portfolio/#projects">PROJECTS</a>
 
 </div>
 
 ---
-
-<div align="center">
-
-[![Identity Swarm](assets/identity-swarm.svg)](https://abla86.github.io/developer-portfolio/)
-
-</div>
 
 ## THE SYSTEM
 
-This profile is the **entry point to an interactive professional ecosystem**, not a conventional résumé page.
+This GitHub profile is the **visual entrance** to the professional ecosystem.
 
-The central model is a **swarm intelligence network**: architecture, DevOps, research, healthcare, automation and quality engineering are connected through the work that demonstrates them.
-
-**The profile does not score skills. It follows evidence.**
-
----
+The images below are not decorative screenshots. They are clickable navigation surfaces. The full interaction — animated swarm, selectable capability nodes, filtering, project inspection and reduced-motion controls — runs on GitHub Pages.
 
 <div align="center">
 
-[![Capability Network](assets/capability-network.svg)](https://abla86.github.io/developer-portfolio/#capabilities)
+<a href="https://abla86.github.io/developer-portfolio/#capabilities">
+  <img src="https://raw.githubusercontent.com/abla86/abla86/main/assets/capability-network.svg" alt="Capability Network — click to explore capabilities" width="900">
+</a>
+
+<br><br>
+
+<a href="https://abla86.github.io/developer-portfolio/#projects">
+  <img src="https://raw.githubusercontent.com/abla86/abla86/main/assets/project-constellation.svg" alt="Project Constellation — click to inspect projects" width="900">
+</a>
+
+<br><br>
+
+<a href="https://abla86.github.io/developer-portfolio/#evidence">
+  <img src="https://raw.githubusercontent.com/abla86/abla86/main/assets/evidence-trail.svg" alt="Evidence Trail — click to inspect traceability" width="900">
+</a>
 
 </div>
 
-## EXPLORE THE NETWORK
+---
+
+## CLICKABLE WORLDS
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center">
 
-### ARCHITECTURE
+<a href="https://abla86.github.io/developer-portfolio/#architecture">
+<img src="https://img.shields.io/badge/ARCHITECTURE-58C7FF?style=for-the-badge" alt="Architecture">
+</a>
 
-System boundaries  
-Data flow  
-Design decisions  
-Maintainability
-
-[ENTER WORLD →](https://abla86.github.io/developer-portfolio/#architecture)
+<br>System boundaries<br>Data flow<br>Design decisions
 
 </td>
-<td align="center" width="33%">
+<td align="center">
 
-### DEVOPS
+<a href="https://abla86.github.io/developer-portfolio/#devops">
+<img src="https://img.shields.io/badge/DEVOPS-FFB45C?style=for-the-badge" alt="DevOps">
+</a>
 
-CI/CD  
-Automation  
-Builds  
-Verification
-
-[ENTER WORLD →](https://abla86.github.io/developer-portfolio/#devops)
+<br>CI/CD<br>Automation<br>Verification
 
 </td>
-<td align="center" width="33%">
+<td align="center">
 
-### RESEARCH
+<a href="https://abla86.github.io/developer-portfolio/#research">
+<img src="https://img.shields.io/badge/RESEARCH-A98CFF?style=for-the-badge" alt="Research">
+</a>
 
-Research methods  
-Evidence appraisal  
-Synthesis  
-Implementation
-
-[ENTER WORLD →](https://abla86.github.io/developer-portfolio/#research)
+<br>Methods<br>Evidence<br>Implementation
 
 </td>
 </tr>
 <tr>
 <td align="center">
 
-### HEALTHCARE
+<a href="https://abla86.github.io/developer-portfolio/#healthcare">
+<img src="https://img.shields.io/badge/HEALTHCARE-55D58A?style=for-the-badge" alt="Healthcare">
+</a>
 
-Digitalisation  
-Information flow  
-Interoperability  
-Responsible technology
-
-[ENTER WORLD →](https://abla86.github.io/developer-portfolio/#healthcare)
+<br>Digitalisation<br>Information flow<br>Responsible technology
 
 </td>
 <td align="center">
 
-### AUTOMATION
+<a href="https://abla86.github.io/developer-portfolio/#automation">
+<img src="https://img.shields.io/badge/AUTOMATION-F1C75B?style=for-the-badge" alt="Automation">
+</a>
 
-Repository workflows  
-Testing  
-GitHub Actions  
-Repeatability
-
-[ENTER WORLD →](https://abla86.github.io/developer-portfolio/#automation)
+<br>Repository workflows<br>Testing<br>Repeatability
 
 </td>
 <td align="center">
 
-### QUALITY
+<a href="https://abla86.github.io/developer-portfolio/#quality">
+<img src="https://img.shields.io/badge/QUALITY-79B8FF?style=for-the-badge" alt="Quality">
+</a>
 
-Traceability  
-Testing  
-Security  
-Release evidence
-
-[ENTER WORLD →](https://abla86.github.io/developer-portfolio/#quality)
+<br>Testing<br>Security<br>Traceability
 
 </td>
 </tr>
@@ -120,15 +112,11 @@ Release evidence
 
 ---
 
-<div align="center">
-
-[![Project Constellation](assets/project-constellation.svg)](https://abla86.github.io/developer-portfolio/#projects)
-
-</div>
-
 ## PROJECT CONSTELLATION
 
-The ecosystem connects to the repositories where the implementation can actually be inspected.
+<a href="https://abla86.github.io/developer-portfolio/#projects">
+  <img src="https://raw.githubusercontent.com/abla86/abla86/main/assets/project-constellation.svg" alt="Open project constellation" width="900">
+</a>
 
 | Evidence world | Repository |
 |---|---|
@@ -141,64 +129,39 @@ The ecosystem connects to the repositories where the implementation can actually
 | AI full-stack engineering | [book-forge](https://github.com/abla86/book-forge) |
 | Engineering experiments | [AB-Engineering-Lab](https://github.com/abla86/AB-Engineering-Lab) |
 
-[OPEN PROJECT CONSTELLATION →](https://abla86.github.io/developer-portfolio/#projects)
-
 ---
-
-<div align="center">
-
-[![Evidence Trail](assets/evidence-trail.svg)](https://abla86.github.io/developer-portfolio/#evidence)
-
-</div>
 
 ## EVIDENCE TRAIL
 
-The engineering model behind the ecosystem is:
+<a href="https://abla86.github.io/developer-portfolio/#evidence">
+  <img src="https://raw.githubusercontent.com/abla86/abla86/main/assets/evidence-trail.svg" alt="Open evidence trail" width="900">
+</a>
 
-**Problem → Research → Architecture → Implementation → Testing → Automated Verification → Documentation → Release**
-
-A capability is represented by a repository, architecture decision, workflow, test, document, release or other inspectable artefact — not by a self-assigned percentage.
-
----
-
-## MODES
-
-[![Recruiter](https://img.shields.io/badge/01-Recruiter%20Mode-55D58A?style=for-the-badge)](https://abla86.github.io/developer-portfolio/#recruiter)
-[![Technical](https://img.shields.io/badge/02-Technical%20Deep%20Dive-58C7FF?style=for-the-badge)](https://abla86.github.io/developer-portfolio/#technical)
-[![Research](https://img.shields.io/badge/03-Research%20Mode-A98CFF?style=for-the-badge)](https://abla86.github.io/developer-portfolio/#research)
-[![Explore](https://img.shields.io/badge/04-Explore%20Freely-FFB45C?style=for-the-badge)](https://abla86.github.io/developer-portfolio/#explore)
+**Problem → Research → Architecture → Implementation → Testing → Verification → Documentation → Release**
 
 ---
 
 <div align="center">
 
-### GITHUB SIGNAL
+<a href="https://github.com/abla86/developer-portfolio">
+<img src="https://img.shields.io/badge/SOURCE-Developer%20Portfolio-58C7FF?style=for-the-badge&logo=github" alt="Portfolio source">
+</a>
+<a href="https://github.com/abla86">
+<img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github" alt="GitHub profile">
+</a>
+<a href="https://abla86.github.io/developer-portfolio/open-source.html">
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-55D58A?style=for-the-badge" alt="Open source">
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abla86&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abla86&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<br><br>
 
-<br>
-
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=abla86&theme=github-compact&hide_border=true)](https://github.com/abla86)
-
-</div>
-
----
-
-<div align="center">
-
-[![Open source](https://img.shields.io/badge/OPEN%20SOURCE-181717?style=for-the-badge&logo=github)](https://abla86.github.io/developer-portfolio/#open-source)
-[![CV](https://img.shields.io/badge/INTERACTIVE%20CV-58C7FF?style=for-the-badge)](https://abla86.github.io/developer-portfolio/#cv)
-[![Research](https://img.shields.io/badge/RESEARCH-A98CFF?style=for-the-badge)](https://abla86.github.io/developer-portfolio/#research)
-[![Contact](https://img.shields.io/badge/CONTACT-55D58A?style=for-the-badge)](https://abla86.github.io/developer-portfolio/#contact)
-
-### Explore the system → [abla86.github.io/developer-portfolio](https://abla86.github.io/developer-portfolio/)
+<strong>THE README IS THE PORTAL. THE PAGES APPLICATION IS THE INTERACTIVE SYSTEM.</strong>
 
 </div>
 
 <details>
 <summary>Accessibility and platform boundary</summary>
 
-The GitHub profile is intentionally a **visual portal**, while the GitHub Pages application contains the real interaction. The README does not claim to execute JavaScript, Three.js, Canvas or React inside GitHub's own profile renderer. Motion-heavy experiences have accessible text/navigation equivalents in the Pages application.
+GitHub profile READMEs do not execute arbitrary JavaScript. Therefore the README uses real clickable HTML links around the visual assets, while the GitHub Pages application provides the actual interactive experience.
 
 </details>
