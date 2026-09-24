@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://abla86.github.io/developer-portfolio/swarm.html">
-  <img src="https://raw.githubusercontent.com/abla86/developer-portfolio/main/assets/swarm-hero.svg" alt="Interactive Anne Beth swarm — click to enter" width="1000">
+  <img src="https://raw.githubusercontent.com/abla86/developer-portfolio/main/assets/swarm-portrait.svg" alt="Interactive Anne Beth swarm — click to enter" width="1000">
 </a>
 
 <br>
