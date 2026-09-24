@@ -6,7 +6,7 @@
 
 **I build systems where implementation, testing and traceability matter.**
 
-[Interactive portfolio →](https://abla86.github.io/developer-portfolio/)
+[Interactive portfolio →](https://abla86.github.io/developer-portfolio/) · [HA desktop](https://abla86.github.io/developer-portfolio/ha-desktop.html) · [Open-source targets](https://abla86.github.io/developer-portfolio/open-source.html)
 
 </div>
 
@@ -79,7 +79,7 @@ TypeScript / JavaScript · React · Next.js · Node.js · C# / .NET · Python / 
 
 Public claims are tied to code, tests and CI. `archive/` folders keep history and are excluded from builds.
 
-## Interactive portfolio
+## Open-source contribution targets\n\nThe portfolio tracks concrete public GitHub issues that match the engineering focus, including Home Assistant frontend work, Zigbee2MQTT configuration and GitHub Actions documentation. These are **real public issues**, not claimed contributions. A contribution is only recorded here after an actual PR exists.\n\n[Open the contribution tracker →](https://abla86.github.io/developer-portfolio/open-source.html)\n\n## Interactive portfolio
 
 The portfolio is an interactive engineering map: choose a platform, language or technology and follow the link straight to the code that demonstrates it. Active repositories are the source of truth; archived or deleted repositories are historical evidence only.
 
