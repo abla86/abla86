@@ -1,90 +1,204 @@
 <div align="center">
 
-# Anne Beth Andersen
+# ANNE BETH
 
-### Software Engineering · HealthTech · Research Software · Cloud · Open Source
+### Software Architecture · DevOps Engineering · Research Methods · Healthcare IT
 
-**I build systems where implementation, testing and traceability matter.**
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1100&color=58C7FF&center=true&vCenter=true&width=820&lines=Evidence+%E2%86%92+Architecture+%E2%86%92+Implementation+%E2%86%92+Verification;Software+systems+with+traceable+engineering+workflows;Research-informed+technology+for+real-world+problems)](https://github.com/abla86)
 
-[Interactive portfolio →](https://abla86.github.io/developer-portfolio/) · [HA desktop](https://abla86.github.io/developer-portfolio/ha-desktop.html) · [Open-source targets](https://abla86.github.io/developer-portfolio/open-source.html)
+[![Explore the ecosystem](https://img.shields.io/badge/EXPLORE%20THE%20ECOSYSTEM-58C7FF?style=for-the-badge&logo=github&logoColor=07131E)](https://abla86.github.io/developer-portfolio/)
+[![Recruiter Mode](https://img.shields.io/badge/RECRUITER%20MODE-55D58A?style=for-the-badge)](https://abla86.github.io/developer-portfolio/#recruiter)
+[![Technical Deep Dive](https://img.shields.io/badge/TECHNICAL%20DEEP%20DIVE-79B8FF?style=for-the-badge)](https://abla86.github.io/developer-portfolio/#technical)
+[![Research Mode](https://img.shields.io/badge/RESEARCH%20MODE-A98CFF?style=for-the-badge)](https://abla86.github.io/developer-portfolio/#research)
 
 </div>
 
 ---
 
-## Selected work
+<div align="center">
 
-| System | Focus |
-|---|---|
-| [**Complete Evidence Appraisal Tool**](https://github.com/abla86/complete-evidence-appraisal-tool) | Research workflows · React · TypeScript · evidence methodology (AMSTAR 2, CASP, AGREE II) |
-| [**CodeSentinel**](https://github.com/abla86/CodeSentinel) | GitHub automation · repository intelligence · security verification |
-| [**AgentTrace**](https://github.com/abla86/agenttrace) | AI-agent tracing · policy · provenance · audit · Python |
-| [**HealthTechDeviceApi**](https://github.com/abla86/HealthTechDeviceApi) | C# · .NET · ASP.NET Core · device API · healthcare data |
-| [**Workforce & Competence Management**](https://github.com/abla86/workforce-competence-management) | C# · ASP.NET Core · React · SQL Server · Docker · staffing gap analysis |
-| [**Azure Kubernetes Showcase**](https://github.com/abla86/azure-kubernetes-showcase) | Azure · Kubernetes · Docker · Terraform/Bicep · CI/CD · DevSecOps |
-| [**Book Forge**](https://github.com/abla86/book-forge) | AI full-stack application · React · Express · story bible · continuity · includes Trusity (AI presentation generator) |
-| [**WPWW War Room**](https://github.com/abla86/wpww-warroom) | Operations · resilience · simulation · controlled security experiments (under review) |
-| [**AB Engineering Lab**](https://github.com/abla86/AB-Engineering-Lab) | Small, tested demonstrations: JavaScript, React, FastAPI, Next.js, Java, Kotlin, Go |
+[![Identity Swarm](assets/identity-swarm.svg)](https://abla86.github.io/developer-portfolio/)
 
+</div>
 
-## Google Cloud Skills Boost
+## THE SYSTEM
 
-**7 Google Cloud completion badges** — earned and shown on my Google Skills profile.
+This profile is the **entry point to an interactive professional ecosystem**, not a conventional résumé page.
 
-<table>
-<tr>
-<td align="center"><a href="https://www.skills.google/course_templates/1564"><img src="https://img.shields.io/badge/Google%20Cloud-Optimize%20Agent%20Behavior-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Optimize Agent Behavior"></a></td>
-<td align="center"><a href="https://www.skills.google/course_templates/1672"><img src="https://img.shields.io/badge/Google%20Cloud-Agentic%20Strategy-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Agentic Strategy: Discover, Design, and Prototype"></a></td>
-<td align="center"><a href="https://www.skills.google/course_templates/1301"><img src="https://img.shields.io/badge/Google%20Cloud-Cloud%20Security%20Risk-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Strategies for Cloud Security Risk Management"></a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://www.skills.google/course_templates/1300"><img src="https://img.shields.io/badge/Google%20Cloud-Security%20Principles-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Introduction to Security Principles in Cloud Computing"></a></td>
-<td align="center"><a href="https://www.skills.google/course_templates/1835"><img src="https://img.shields.io/badge/Google%20Cloud-Secure%20Enterprise%20AI%20Agents-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Secure Enterprise AI Agents"></a></td>
-<td align="center"><a href="https://www.skills.google/course_templates/1449"><img src="https://img.shields.io/badge/Google%20Cloud-AI%20Boost%20Bites-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="AI Boost Bites: Your Personal Feedback Agent"></a></td>
-</tr>
-<tr>
-<td align="center" colspan="3"><a href="https://www.skills.google/course_templates/1833"><img src="https://img.shields.io/badge/Google%20Cloud-Build%20Collaborative%20Multi--Agent%20Systems%20with%20ADK%20%26%20MCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Build Collaborative Multi-Agent Systems with ADK and MCP"></a></td>
-</tr>
-</table>
+The central model is a **swarm intelligence network**: architecture, DevOps, research, healthcare, automation and quality engineering are connected through the work that demonstrates them.
 
-### Skills represented
-
-- **Agent engineering:** agent behavior, agentic strategy, multi-agent architecture, ADK and MCP
-- **AI security:** secure enterprise AI agents and governance
-- **Cloud security:** security principles and cloud security risk management
-- **Applied AI:** Gemini-based productivity and feedback workflows
-
-The links above point to the corresponding official Google Skills course pages; the completion status is based on the Google Skills profile shown in my credentials. 
-
-## Languages and technologies
-
-TypeScript / JavaScript · React · Next.js · Node.js · C# / .NET · Python / FastAPI · Java · Kotlin · Go · SQL / T-SQL · Docker · Kubernetes · Terraform / Bicep · GitHub Actions
-
-## Repository strategy
-
-**One canonical implementation per capability.** Duplicate and older repositories were merged, with full git history, into the strongest repository as `archive/<name>/`, and the originals were removed after every file was verified.
-
-| Domain | Canonical home |
-|---|---|
-| Evidence & research | `complete-evidence-appraisal-tool` |
-| Security / GitHub | `CodeSentinel` |
-| AI agents | `agenttrace` |
-| HealthTech | `HealthTechDeviceApi` |
-| Workforce planning | `workforce-competence-management` |
-| Cloud / Kubernetes | `azure-kubernetes-showcase` |
-| Operations / war room | `wpww-warroom` |
-| Books & content | `book-forge` |
-| Engineering experiments | `AB-Engineering-Lab` |
-| Presentation | `developer-portfolio` |
-
-Public claims are tied to code, tests and CI. `archive/` folders keep history and are excluded from builds.
-
-## Open-source contribution targets\n\nThe portfolio tracks concrete public GitHub issues that match the engineering focus, including Home Assistant frontend work, Zigbee2MQTT configuration and GitHub Actions documentation. These are **real public issues**, not claimed contributions. A contribution is only recorded here after an actual PR exists.\n\n[Open the contribution tracker →](https://abla86.github.io/developer-portfolio/open-source.html)\n\n## Interactive portfolio
-
-The portfolio is an interactive engineering map: choose a platform, language or technology and follow the link straight to the code that demonstrates it. Active repositories are the source of truth; archived or deleted repositories are historical evidence only.
-
-[Open the portfolio →](https://abla86.github.io/developer-portfolio/)
+**The profile does not score skills. It follows evidence.**
 
 ---
 
-> **Fewer repositories. Stronger systems. Real engineering evidence.**
+<div align="center">
+
+[![Capability Network](assets/capability-network.svg)](https://abla86.github.io/developer-portfolio/#capabilities)
+
+</div>
+
+## EXPLORE THE NETWORK
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ARCHITECTURE
+
+System boundaries  
+Data flow  
+Design decisions  
+Maintainability
+
+[ENTER WORLD →](https://abla86.github.io/developer-portfolio/#architecture)
+
+</td>
+<td align="center" width="33%">
+
+### DEVOPS
+
+CI/CD  
+Automation  
+Builds  
+Verification
+
+[ENTER WORLD →](https://abla86.github.io/developer-portfolio/#devops)
+
+</td>
+<td align="center" width="33%">
+
+### RESEARCH
+
+Research methods  
+Evidence appraisal  
+Synthesis  
+Implementation
+
+[ENTER WORLD →](https://abla86.github.io/developer-portfolio/#research)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### HEALTHCARE
+
+Digitalisation  
+Information flow  
+Interoperability  
+Responsible technology
+
+[ENTER WORLD →](https://abla86.github.io/developer-portfolio/#healthcare)
+
+</td>
+<td align="center">
+
+### AUTOMATION
+
+Repository workflows  
+Testing  
+GitHub Actions  
+Repeatability
+
+[ENTER WORLD →](https://abla86.github.io/developer-portfolio/#automation)
+
+</td>
+<td align="center">
+
+### QUALITY
+
+Traceability  
+Testing  
+Security  
+Release evidence
+
+[ENTER WORLD →](https://abla86.github.io/developer-portfolio/#quality)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+[![Project Constellation](assets/project-constellation.svg)](https://abla86.github.io/developer-portfolio/#projects)
+
+</div>
+
+## PROJECT CONSTELLATION
+
+The ecosystem connects to the repositories where the implementation can actually be inspected.
+
+| Evidence world | Repository |
+|---|---|
+| Evidence appraisal | [complete-evidence-appraisal-tool](https://github.com/abla86/complete-evidence-appraisal-tool) |
+| Repository intelligence & security | [CodeSentinel](https://github.com/abla86/CodeSentinel) |
+| AI-agent tracing & provenance | [AgentTrace](https://github.com/abla86/agenttrace) |
+| Healthcare API | [HealthTechDeviceApi](https://github.com/abla86/HealthTechDeviceApi) |
+| Workforce systems | [workforce-competence-management](https://github.com/abla86/workforce-competence-management) |
+| Cloud / Kubernetes | [azure-kubernetes-showcase](https://github.com/abla86/azure-kubernetes-showcase) |
+| AI full-stack engineering | [book-forge](https://github.com/abla86/book-forge) |
+| Engineering experiments | [AB-Engineering-Lab](https://github.com/abla86/AB-Engineering-Lab) |
+
+[OPEN PROJECT CONSTELLATION →](https://abla86.github.io/developer-portfolio/#projects)
+
+---
+
+<div align="center">
+
+[![Evidence Trail](assets/evidence-trail.svg)](https://abla86.github.io/developer-portfolio/#evidence)
+
+</div>
+
+## EVIDENCE TRAIL
+
+The engineering model behind the ecosystem is:
+
+**Problem → Research → Architecture → Implementation → Testing → Automated Verification → Documentation → Release**
+
+A capability is represented by a repository, architecture decision, workflow, test, document, release or other inspectable artefact — not by a self-assigned percentage.
+
+---
+
+## MODES
+
+[![Recruiter](https://img.shields.io/badge/01-Recruiter%20Mode-55D58A?style=for-the-badge)](https://abla86.github.io/developer-portfolio/#recruiter)
+[![Technical](https://img.shields.io/badge/02-Technical%20Deep%20Dive-58C7FF?style=for-the-badge)](https://abla86.github.io/developer-portfolio/#technical)
+[![Research](https://img.shields.io/badge/03-Research%20Mode-A98CFF?style=for-the-badge)](https://abla86.github.io/developer-portfolio/#research)
+[![Explore](https://img.shields.io/badge/04-Explore%20Freely-FFB45C?style=for-the-badge)](https://abla86.github.io/developer-portfolio/#explore)
+
+---
+
+<div align="center">
+
+### GITHUB SIGNAL
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abla86&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abla86&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+<br>
+
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=abla86&theme=github-compact&hide_border=true)](https://github.com/abla86)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Open source](https://img.shields.io/badge/OPEN%20SOURCE-181717?style=for-the-badge&logo=github)](https://abla86.github.io/developer-portfolio/#open-source)
+[![CV](https://img.shields.io/badge/INTERACTIVE%20CV-58C7FF?style=for-the-badge)](https://abla86.github.io/developer-portfolio/#cv)
+[![Research](https://img.shields.io/badge/RESEARCH-A98CFF?style=for-the-badge)](https://abla86.github.io/developer-portfolio/#research)
+[![Contact](https://img.shields.io/badge/CONTACT-55D58A?style=for-the-badge)](https://abla86.github.io/developer-portfolio/#contact)
+
+### Explore the system → [abla86.github.io/developer-portfolio](https://abla86.github.io/developer-portfolio/)
+
+</div>
+
+<details>
+<summary>Accessibility and platform boundary</summary>
+
+The GitHub profile is intentionally a **visual portal**, while the GitHub Pages application contains the real interaction. The README does not claim to execute JavaScript, Three.js, Canvas or React inside GitHub's own profile renderer. Motion-heavy experiences have accessible text/navigation equivalents in the Pages application.
+
+</details>
