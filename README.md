@@ -4,8 +4,8 @@
 
 ### Software Architecture · DevOps Engineering · Research Methods · Healthcare IT
 
-<a href="https://abla86.github.io/developer-portfolio/">
-  <img src="https://raw.githubusercontent.com/abla86/abla86/main/assets/identity-swarm.svg" alt="Open the interactive Anne Beth ecosystem" width="900">
+<a href="https://abla86.github.io/developer-portfolio/swarm.html">
+  <img src="https://raw.githubusercontent.com/abla86/developer-portfolio/main/assets/swarm-hero.svg" alt="Open the interactive Anne Beth swarm ecosystem" width="900">
 </a>
 
 <p><strong>CLICK THE VISUALS — EACH ONE IS A REAL NAVIGATION TARGET</strong></p>
