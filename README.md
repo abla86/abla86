@@ -2,55 +2,48 @@
 
 # Anne Beth Andersen
 
-**Software development · APIs · Cloud / DevOps · Security · HealthTech**
+**Software development · APIs · Automation · Cloud / DevOps**
 
-[Portfolio](https://abla86.github.io/developer-portfolio/) · [Projects](https://abla86.github.io/developer-portfolio/projects.html) · [GitHub repositories](https://github.com/abla86?tab=repositories)
+[Portfolio](https://abla86.github.io/developer-portfolio/) · [Selected projects](https://abla86.github.io/developer-portfolio/projects.html) · [GitHub repositories](https://github.com/abla86?tab=repositories)
 
 </div>
 
-## Professional profile
+## About me
 
-I build software and technical prototypes that connect application development, backend services, cloud engineering and real-world workflows. My background in healthcare and ongoing Master's studies in Knowledge-Based Practice give me experience with complex user needs, quality, documentation and evidence-informed improvement.
+I am a nurse and administration professional building a transition into software development. My background includes municipal healthcare, payroll and personnel administration, and ten years of experience from the postal service. I am also a Master's student in Knowledge-Based Practice.
 
-My technical work includes full-stack applications, REST APIs, databases, Docker, Kubernetes, Azure-oriented infrastructure, CI/CD, security controls and research-support tools. I focus on making systems understandable, testable and explicit about their limitations.
+I enjoy turning practical problems into digital tools. My projects combine application development, APIs, automation and systems thinking. My healthcare and administration experience gives me a practical understanding of users, complex workflows, documentation and quality.
 
-**Current focus:** software/application development, API engineering, cloud and DevOps, secure engineering practices and healthcare technology.
+**I am looking for opportunities in software and application development**, particularly where I can contribute to frontend development, backend/API work, automation, testing and technical problem-solving while continuing to grow as a developer.
 
-## Selected engineering work
+## Selected projects
 
 | Project | What it demonstrates |
 |---|---|
-| [Azure Kubernetes Showcase](https://github.com/abla86/azure-kubernetes-showcase) | .NET, React, Docker, Kubernetes, Azure infrastructure as code, CI/CD and DevSecOps |
-| [HealthTech Device API](https://github.com/abla86/HealthTechDeviceApi) | ASP.NET Core REST API, validation, synthetic DICOM handling, automated tests and security demonstrations |
-| [Workforce & Competence Management](https://github.com/abla86/workforce-competence-management) | React, ASP.NET Core, SQL Server, workforce planning and decision-support workflows |
-| [Complete Evidence Appraisal Tool](https://github.com/abla86/complete-evidence-appraisal-tool) | Research-support software, methodology-aware appraisal, validation and evidence traceability |
-| [AB Engineering Lab](https://github.com/abla86/AB-Engineering-Lab) | Reusable engineering demonstrations, integration examples and contained security labs |
+| [HealthTech Device API](https://github.com/abla86/HealthTechDeviceApi) | C#/.NET, ASP.NET Core, REST API development, validation and synthetic healthcare data |
+| [Workforce & Competence Management](https://github.com/abla86/workforce-competence-management) | React, .NET, SQL and digital workflows for competence and workforce planning |
+| [Azure Kubernetes Showcase](https://github.com/abla86/azure-kubernetes-showcase) | Docker, Kubernetes, Azure, CI/CD and DevSecOps concepts |
+| [Complete Evidence Appraisal Tool](https://github.com/abla86/complete-evidence-appraisal-tool) | Research-support software, structured appraisal workflows and evidence traceability |
+| [AB Engineering Lab](https://github.com/abla86/AB-Engineering-Lab) | Practical experiments in APIs, automation, integrations and software engineering |
 
-## Technical areas
+## Technologies
 
-**Application development:** C#, .NET, ASP.NET Core, TypeScript, JavaScript, React, Python and FastAPI.
+**Used across projects:** HTML, CSS, JavaScript, React, Python, FastAPI, C#, .NET, REST APIs, SQL, PostgreSQL, Git, GitHub, Docker and GitHub Actions.
 
-**Backend and data:** REST APIs, SQL, PostgreSQL, SQL Server, validation, service boundaries and integration.
-
-**Cloud and delivery:** Docker, Kubernetes, Azure, GitHub Actions, CI/CD and infrastructure as code.
-
-**Security and quality:** secure API boundaries, input validation, dependency security, secret handling, automated tests and documented verification.
-
-**Research and HealthTech:** evidence traceability, appraisal workflows, synthetic healthcare data and healthcare-oriented software prototypes.
+**Currently developing further:** Azure, Kubernetes, automated testing, application security and CI/CD.
 
 ## How I work
 
-- I distinguish implemented functionality from prototypes and future plans.
-- I document what has been tested and what remains unverified.
-- I use synthetic data in public HealthTech demonstrations.
-- I treat software correctness and clinical or scientific validity as separate requirements.
-- I value clear communication, maintainability and practical problem-solving.
+- I build practical projects to solve or explore real problems.
+- I document what is implemented, what is experimental and what has been tested.
+- I value clear communication, structured problem-solving and maintainable code.
+- I distinguish software functionality from clinical or scientific validation.
 
-## Education and professional background
+## Education
 
-Healthcare professional with practical experience from Norwegian municipal health services. Currently a Master's student in Knowledge-Based Practice. The Master's degree is ongoing and is not presented as completed.
+Master's student in Knowledge-Based Practice — ongoing.
 
-For a fuller overview of selected projects, architecture and demonstrations, visit the [interactive portfolio](https://abla86.github.io/developer-portfolio/).
+**More about my work:** [Interactive portfolio](https://abla86.github.io/developer-portfolio/)
 
 ---
 
