@@ -2,57 +2,83 @@
 
 # Anne Beth Andersen
 
-**Software development · APIs · Automation · Cloud / DevOps**
+**Sykepleie · Lønn, personal og administrasjon · Programvareutvikling · Helseteknologi**
 
-[Portfolio](https://abla86.github.io/developer-portfolio/) · [Selected projects](https://abla86.github.io/developer-portfolio/projects.html) · [GitHub repositories](https://github.com/abla86?tab=repositories)
+[🌐 Interaktiv portefølje](https://abla86.github.io/developer-portfolio/) · [Prosjekter](https://abla86.github.io/developer-portfolio/projects.html) · [GitHub-repositorier](https://github.com/abla86?tab=repositories)
 
 </div>
 
-## About me
+## Profil
 
-I am a nurse and administration professional building a transition into software development. My background includes municipal healthcare, payroll and personnel administration, and ten years of experience from the postal service. I am also a Master's student in Knowledge-Based Practice.
+Jeg har en sammensatt fagbakgrunn fra sykepleie, kommunale helse- og omsorgstjenester, lønn, personal og administrasjon. Jeg har videreutdanning i palliasjon, arbeidet i hjemmetjenesten siden 2020 og har ti års erfaring fra Posten. Jeg tar en master i kunnskapsbasert praksis (pågående).
 
-I enjoy turning practical problems into digital tools. My projects combine application development, APIs, automation and systems thinking. My healthcare and administration experience gives me a practical understanding of users, complex workflows, documentation and quality.
+Parallelt utvikler jeg programvare og digitale verktøy med utgangspunkt i konkrete arbeidsprosesser og brukerbehov. Arbeidet mitt omfatter webapplikasjoner, API-er, databaser, automatisering, testing og sikker utviklingspraksis. Helsefaglig og administrativ erfaring gir meg domeneforståelse for arbeidsflyt, dokumentasjon, kvalitet, personvern og konsekvensene av digitale løsninger i praksis.
 
-**I am looking for opportunities in software and application development**, particularly where I can contribute to frontend development, backend/API work, automation, testing and technical problem-solving while continuing to grow as a developer.
+**Jeg søker muligheter der denne kombinasjonen kan brukes**, særlig innen helseteknologi, digitalisering, system- og applikasjonsforvaltning, implementering, kvalitet/testing og programvareutvikling.
 
-## Selected project case studies
+## Hva jeg kan dokumentere
 
-The source repositories for these projects are currently private during consolidation. Public descriptions and interactive demonstrations are available through the portfolio; the underlying source code is not publicly inspectable.
+### Faglig og organisatorisk erfaring
+- Sykepleier med videreutdanning i palliasjon.
+- Erfaring fra kommunale helse- og omsorgstjenester.
+- Arbeid med lønn, personal og administrasjon.
+- Ti års arbeidserfaring fra Posten, i en virksomhet med omfattende endringer i arbeidsprosesser og teknologi.
+- Pågående masterutdanning i kunnskapsbasert praksis.
 
-| Project | What it demonstrates |
+### Teknologi brukt i egne utviklingsprosjekter
+- **Frontend:** HTML, CSS, JavaScript, TypeScript og React.
+- **Backend og API:** C#, .NET / ASP.NET Core, Python, FastAPI, Node.js og REST.
+- **Data:** SQL, PostgreSQL og SQLite.
+- **Utviklingsflyt:** Git, GitHub, GitHub Actions, automatiserte tester og CI.
+- **Plattform og sikkerhet:** Docker, Kubernetes/Azure-konsepter, avhengighetskontroll, statisk analyse og DevSecOps-arbeidsflyter.
+
+Teknologiene over beskriver prosjektarbeid og praktisk utvikling. De skal ikke forstås som dokumentasjon på flere års yrkeserfaring eller produksjonsansvar innen hvert enkelt område. Porteføljen skiller mellom implementert funksjonalitet, demonstrasjoner, prototyper og verifiserte kontroller.
+
+## Utvalgte prosjektområder
+
+| Område | Eksempel på arbeid |
 |---|---|
-| HealthTech Device API | C#/.NET, ASP.NET Core, REST API development, validation and synthetic healthcare data |
-| Workforce & Competence Management | React, .NET, SQL and digital workflows for competence and workforce planning |
-| Azure Kubernetes Showcase | Docker, Kubernetes, Azure, CI/CD and DevSecOps concepts |
-| Complete Evidence Appraisal Tool | Research-support software, structured appraisal workflows and evidence traceability |
-| AB Engineering Lab | Practical experiments in APIs, automation, integrations and software engineering |
+| Helseteknologi | API og demonstrasjon for syntetiske enhets- og DICOM-data |
+| Kunnskapsbasert praksis | Verktøy for strukturert kritisk vurdering og sporbarhet i forskningsarbeid |
+| Arbeidsflyt og kompetanse | Prototype for kompetanseoversikt, bemanningsbehov og beslutningsstøtte |
+| Cloud og DevOps | Azure/Kubernetes-demonstrasjon, containere, CI/CD og sikkerhetskontroller |
+| AI og sikkerhet | AgentTrace – sporbarhet, policykontroll og revisjon av AI-agenters verktøybruk |
+| Programvareutvikling | Interaktive demonstrasjoner, API-er og fullstack-applikasjoner |
 
-## Technologies
+Porteføljen inneholder både interaktive demonstrasjoner og prosjektbeskrivelser. En demonstrasjon er ikke automatisk en produksjonsløsning, og en bestått bygg- eller testjobb er ikke det samme som full sikkerhets-, klinisk eller metodisk validering. Kildekode og status må vurderes i det enkelte prosjektet.
 
-**Used across projects:** HTML, CSS, JavaScript, React, Python, FastAPI, C#, .NET, REST APIs, SQL, PostgreSQL, Git, GitHub, Docker and GitHub Actions.
+## Arbeidsmåte
 
-**Currently developing further:** Azure, Kubernetes, automated testing, application security and CI/CD.
+- Starter med brukerbehov, problem og arbeidsprosess.
+- Bygger løsninger trinnvis og dokumenterer tekniske valg.
+- Bruker tester og automatiserte kontroller der det er relevant.
+- Skiller mellom faktiske resultater, syntetiske data og planlagt funksjonalitet.
+- Vurderer personvern, sikkerhet, kvalitet og faglig ansvar som deler av løsningen.
 
-## How I work
+## Portefølje og kontaktpunkt
 
-- I build practical projects to solve or explore real problems.
-- I document what is implemented, what is experimental and what has been tested.
-- I value clear communication, structured problem-solving and maintainable code.
-- I distinguish software functionality from clinical or scientific validation.
+**[Åpne den interaktive porteføljen](https://abla86.github.io/developer-portfolio/)**
 
-## Education
+Der finner du prosjektatlas, teknologikart, interaktive laboratorier, demonstrasjoner og en mer detaljert gjennomgang av arbeidet.
 
-Master's student in Knowledge-Based Practice — ongoing.
+---
 
-**More about my work:** [Interactive portfolio](https://abla86.github.io/developer-portfolio/)
+## English
+
+I am a registered nurse with further education in palliative care and experience from municipal healthcare, payroll, personnel and administration. My background also includes ten years at the Norwegian postal service. I am currently pursuing a Master's degree in Knowledge-Based Practice.
+
+Alongside my professional work and studies, I build software projects focused on practical workflows and user needs. My project work covers web applications, APIs, databases, automation, testing and security-conscious development. I am particularly interested in healthcare technology, digital transformation, application and systems work, quality assurance and software development.
+
+The technologies listed above reflect hands-on project work, not a claim of several years of professional production experience in every technology. My portfolio distinguishes implemented features, demonstrations, prototypes and verified checks.
+
+[Open portfolio](https://abla86.github.io/developer-portfolio/) · [Projects](https://abla86.github.io/developer-portfolio/projects.html)
 
 ---
 
 <div align="center">
 
 <a href="https://abla86.github.io/developer-portfolio/swarm.html">
-<img src="https://raw.githubusercontent.com/abla86/developer-portfolio/main/assets/swarm-portrait.svg" alt="Anne Beth interactive swarm" width="1100">
+<img src="https://raw.githubusercontent.com/abla86/developer-portfolio/main/assets/swarm-portrait.svg" alt="Interactive engineering portfolio" width="100%">
 </a>
 
 <br><br>
@@ -68,11 +94,5 @@ Master's student in Knowledge-Based Practice — ongoing.
 <a href="https://abla86.github.io/developer-portfolio/index.html#visual-projects"><img src="https://raw.githubusercontent.com/abla86/developer-portfolio/main/assets/world-projects.svg" width="31%" alt="Projects"></a>
 <a href="https://abla86.github.io/developer-portfolio/index.html#visual-cv"><img src="https://raw.githubusercontent.com/abla86/developer-portfolio/main/assets/world-cv.svg" width="31%" alt="CV"></a>
 <a href="https://github.com/abla86"><img src="https://raw.githubusercontent.com/abla86/developer-portfolio/main/assets/world-github.svg" width="31%" alt="GitHub"></a>
-
-<br><br>
-
-<a href="https://github.com/abla86/developer-portfolio">
-<img src="https://img.shields.io/badge/PORTFOLIO_SOURCE-181717?style=for-the-badge&logo=github" alt="Portfolio source">
-</a>
 
 </div>
