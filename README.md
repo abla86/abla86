@@ -16,15 +16,17 @@ I enjoy turning practical problems into digital tools. My projects combine appli
 
 **I am looking for opportunities in software and application development**, particularly where I can contribute to frontend development, backend/API work, automation, testing and technical problem-solving while continuing to grow as a developer.
 
-## Selected projects
+## Selected project case studies
+
+The source repositories for these projects are currently private during consolidation. Public descriptions and interactive demonstrations are available through the portfolio; the underlying source code is not publicly inspectable.
 
 | Project | What it demonstrates |
 |---|---|
-| [HealthTech Device API](https://github.com/abla86/HealthTechDeviceApi) | C#/.NET, ASP.NET Core, REST API development, validation and synthetic healthcare data |
-| [Workforce & Competence Management](https://github.com/abla86/workforce-competence-management) | React, .NET, SQL and digital workflows for competence and workforce planning |
-| [Azure Kubernetes Showcase](https://github.com/abla86/azure-kubernetes-showcase) | Docker, Kubernetes, Azure, CI/CD and DevSecOps concepts |
-| [Complete Evidence Appraisal Tool](https://github.com/abla86/complete-evidence-appraisal-tool) | Research-support software, structured appraisal workflows and evidence traceability |
-| [AB Engineering Lab](https://github.com/abla86/AB-Engineering-Lab) | Practical experiments in APIs, automation, integrations and software engineering |
+| HealthTech Device API | C#/.NET, ASP.NET Core, REST API development, validation and synthetic healthcare data |
+| Workforce & Competence Management | React, .NET, SQL and digital workflows for competence and workforce planning |
+| Azure Kubernetes Showcase | Docker, Kubernetes, Azure, CI/CD and DevSecOps concepts |
+| Complete Evidence Appraisal Tool | Research-support software, structured appraisal workflows and evidence traceability |
+| AB Engineering Lab | Practical experiments in APIs, automation, integrations and software engineering |
 
 ## Technologies
 
